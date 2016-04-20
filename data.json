@@ -1,0 +1,6008 @@
+[
+    {
+        "event_latitude": "event_latitude",
+        "id": "id",
+        "event_code": "event_code",
+        "event_longitude": "event_longitude"
+    },
+    {
+        "event_latitude": "45.47562",
+        "id": "2162260741",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.71448"
+    },
+    {
+        "event_latitude": "45.01664",
+        "id": "2162270744",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.23711"
+    },
+    {
+        "event_latitude": "44.9829",
+        "id": "2162270370",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-93.24148"
+    },
+    {
+        "event_latitude": "39.9538",
+        "id": "2162268261",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-83.09464"
+    },
+    {
+        "event_latitude": "42.82733",
+        "id": "2162275089",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-88.7793"
+    },
+    {
+        "event_latitude": "45.14537",
+        "id": "2162280067",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-122.88629"
+    },
+    {
+        "event_latitude": "45.14349",
+        "id": "2162280392",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.86172"
+    },
+    {
+        "event_latitude": "45.15089",
+        "id": "2162280103",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.87937"
+    },
+    {
+        "event_latitude": "45.4212",
+        "id": "2162281578",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.45819"
+    },
+    {
+        "event_latitude": "38.97093",
+        "id": "2162297195",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-92.35232"
+    },
+    {
+        "event_latitude": "38.99122",
+        "id": "2162294668",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-92.28996"
+    },
+    {
+        "event_latitude": "39.00162",
+        "id": "2162298643",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-92.31303"
+    },
+    {
+        "event_latitude": "38.96883",
+        "id": "2162297077",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-92.32684"
+    },
+    {
+        "event_latitude": "38.9774",
+        "id": "2162296525",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-92.28204"
+    },
+    {
+        "event_latitude": "38.98335",
+        "id": "2162298381",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-92.33349"
+    },
+    {
+        "event_latitude": "45.41125",
+        "id": "2162286464",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.62154"
+    },
+    {
+        "event_latitude": "45.43029",
+        "id": "2162286670",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.63267"
+    },
+    {
+        "event_latitude": "45.35935",
+        "id": "2162306076",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.60533"
+    },
+    {
+        "event_latitude": "45.40247",
+        "id": "2162305546",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.57225"
+    },
+    {
+        "event_latitude": "45.4128",
+        "id": "2162305467",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.57333"
+    },
+    {
+        "event_latitude": "45.42043",
+        "id": "2162305422",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.57618"
+    },
+    {
+        "event_latitude": "45.42059",
+        "id": "2162305419",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.57629"
+    },
+    {
+        "event_latitude": "45.36737",
+        "id": "2162305761",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.5959"
+    },
+    {
+        "event_latitude": "45.47759",
+        "id": "2162310758",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.46708"
+    },
+    {
+        "event_latitude": "45.47596",
+        "id": "2162309925",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.54986"
+    },
+    {
+        "event_latitude": "45.47768",
+        "id": "2162310748",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.46578"
+    },
+    {
+        "event_latitude": "45.4776",
+        "id": "2162310776",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.46726"
+    },
+    {
+        "event_latitude": "45.47922",
+        "id": "2162309813",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.56936"
+    },
+    {
+        "event_latitude": "45.47659",
+        "id": "2162310061",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.53523"
+    },
+    {
+        "event_latitude": "45.47396",
+        "id": "2162310680",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.45428"
+    },
+    {
+        "event_latitude": "45.47402",
+        "id": "2162310682",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.45428"
+    },
+    {
+        "event_latitude": "45.4905",
+        "id": "2162309468",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.59885"
+    },
+    {
+        "event_latitude": "45.47468",
+        "id": "2162310704",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.45858"
+    },
+    {
+        "event_latitude": "45.47261",
+        "id": "2162310506",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.46713"
+    },
+    {
+        "event_latitude": "45.32998",
+        "id": "2162307258",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.58535"
+    },
+    {
+        "event_latitude": "45.33183",
+        "id": "2162311278",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.58683"
+    },
+    {
+        "event_latitude": "45.32984",
+        "id": "2162313754",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.60501"
+    },
+    {
+        "event_latitude": "45.47992",
+        "id": "2162316284",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.46772"
+    },
+    {
+        "event_latitude": "45.47987",
+        "id": "2162316288",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.46766"
+    },
+    {
+        "event_latitude": "45.47412",
+        "id": "2162316388",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.45465"
+    },
+    {
+        "event_latitude": "45.48052",
+        "id": "2162316266",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.46981"
+    },
+    {
+        "event_latitude": "45.47401",
+        "id": "2162320624",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.45426"
+    },
+    {
+        "event_latitude": "45.47279",
+        "id": "2162320609",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.45403"
+    },
+    {
+        "event_latitude": "44.16336",
+        "id": "2162324575",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-94.00481"
+    },
+    {
+        "event_latitude": "45.50446",
+        "id": "2162321155",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.47605"
+    },
+    {
+        "event_latitude": "45.48298",
+        "id": "2162321310",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.46806"
+    },
+    {
+        "event_latitude": "45.4727",
+        "id": "2162321459",
+        "event_code": "DECELERATION_2",
+        "event_longitude": "-122.45251"
+    },
+    {
+        "event_latitude": "45.47764",
+        "id": "2162321348",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.46747"
+    },
+    {
+        "event_latitude": "45.84966",
+        "id": "2162324982",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-119.29766"
+    },
+    {
+        "event_latitude": "45.51943",
+        "id": "2162335182",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.65769"
+    },
+    {
+        "event_latitude": "43.03347",
+        "id": "2162334264",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-87.94923"
+    },
+    {
+        "event_latitude": "43.01638",
+        "id": "2162333962",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-88.03586"
+    },
+    {
+        "event_latitude": "44.29836",
+        "id": "2162339398",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.39876"
+    },
+    {
+        "event_latitude": "45.80925",
+        "id": "2162347175",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-92.20321"
+    },
+    {
+        "event_latitude": "39.22696",
+        "id": "2162348416",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.32608"
+    },
+    {
+        "event_latitude": "45.12287",
+        "id": "2162347669",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-92.6084"
+    },
+    {
+        "event_latitude": "45.12178",
+        "id": "2162347807",
+        "event_code": "CORNERING_R1",
+        "event_longitude": "-92.65775"
+    },
+    {
+        "event_latitude": "38.80299",
+        "id": "2162353954",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-90.68154"
+    },
+    {
+        "event_latitude": "38.79768",
+        "id": "2162354230",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-90.58229"
+    },
+    {
+        "event_latitude": "38.82752",
+        "id": "2162353424",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-90.83127"
+    },
+    {
+        "event_latitude": "38.80496",
+        "id": "2162353621",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-90.79874"
+    },
+    {
+        "event_latitude": "44.82572",
+        "id": "2162350622",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-88.69226"
+    },
+    {
+        "event_latitude": "45.51488",
+        "id": "2162358119",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.6916"
+    },
+    {
+        "event_latitude": "45.54391",
+        "id": "2162368800",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.70284"
+    },
+    {
+        "event_latitude": "45.53826",
+        "id": "2162369287",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.66153"
+    },
+    {
+        "event_latitude": "45.55065",
+        "id": "2162368628",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.72245"
+    },
+    {
+        "event_latitude": "45.58789",
+        "id": "2162368352",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.77423"
+    },
+    {
+        "event_latitude": "45.82309",
+        "id": "2162367145",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.84563"
+    },
+    {
+        "event_latitude": "45.53439",
+        "id": "2162369222",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.66083"
+    },
+    {
+        "event_latitude": "45.53588",
+        "id": "2162369096",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.6681"
+    },
+    {
+        "event_latitude": "45.55094",
+        "id": "2162368616",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.72334"
+    },
+    {
+        "event_latitude": "45.84645",
+        "id": "2162366975",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.82039"
+    },
+    {
+        "event_latitude": "45.28159",
+        "id": "2162363631",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.54874"
+    },
+    {
+        "event_latitude": "43.33119",
+        "id": "2162378096",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.26028"
+    },
+    {
+        "event_latitude": "43.42348",
+        "id": "2162377726",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.33604"
+    },
+    {
+        "event_latitude": "43.57558",
+        "id": "2162377127",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.43073"
+    },
+    {
+        "event_latitude": "43.18491",
+        "id": "2162378746",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.10704"
+    },
+    {
+        "event_latitude": "43.4919",
+        "id": "2162377471",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.36694"
+    },
+    {
+        "event_latitude": "43.23919",
+        "id": "2162378488",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.17793"
+    },
+    {
+        "event_latitude": "45.36615",
+        "id": "2162365410",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.63044"
+    },
+    {
+        "event_latitude": "45.36916",
+        "id": "2162365292",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.64635"
+    },
+    {
+        "event_latitude": "45.36781",
+        "id": "2162365439",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.62983"
+    },
+    {
+        "event_latitude": "44.06011",
+        "id": "2162373093",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-121.35669"
+    },
+    {
+        "event_latitude": "44.09115",
+        "id": "2162372609",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-121.30974"
+    },
+    {
+        "event_latitude": "45.68213",
+        "id": "2162375377",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.60407"
+    },
+    {
+        "event_latitude": "45.68175",
+        "id": "2162375360",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.61002"
+    },
+    {
+        "event_latitude": "45.68725",
+        "id": "2162375450",
+        "event_code": "CORNERING_R1",
+        "event_longitude": "-122.59968"
+    },
+    {
+        "event_latitude": "43.12001",
+        "id": "2162382167",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-88.34274"
+    },
+    {
+        "event_latitude": "43.14101",
+        "id": "2162382015",
+        "event_code": "CORNERING_R1",
+        "event_longitude": "-88.34179"
+    },
+    {
+        "event_latitude": "45.3677",
+        "id": "2162382901",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.86485"
+    },
+    {
+        "event_latitude": "33.70335",
+        "id": "2162389374",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-112.14151"
+    },
+    {
+        "event_latitude": "33.67168",
+        "id": "2162391167",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-112.03172"
+    },
+    {
+        "event_latitude": "33.66764",
+        "id": "2162390297",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-112.19524"
+    },
+    {
+        "event_latitude": "33.79906",
+        "id": "2162384673",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-112.08353"
+    },
+    {
+        "event_latitude": "33.79861",
+        "id": "2162384362",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-112.12929"
+    },
+    {
+        "event_latitude": "33.79905",
+        "id": "2162384762",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-112.06565"
+    },
+    {
+        "event_latitude": "41.65349",
+        "id": "2162393732",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-83.74246"
+    },
+    {
+        "event_latitude": "41.67383",
+        "id": "2162393963",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-83.72115"
+    },
+    {
+        "event_latitude": "41.63909",
+        "id": "2162393620",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-83.74227"
+    },
+    {
+        "event_latitude": "41.63895",
+        "id": "2162393615",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-83.74227"
+    },
+    {
+        "event_latitude": "41.61016",
+        "id": "2162393385",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-83.73733"
+    },
+    {
+        "event_latitude": "44.66197",
+        "id": "2162397934",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-88.05264"
+    },
+    {
+        "event_latitude": "45.45418",
+        "id": "2162407343",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.68323"
+    },
+    {
+        "event_latitude": "45.41583",
+        "id": "2162405855",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.63174"
+    },
+    {
+        "event_latitude": "45.25959",
+        "id": "2162404681",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.70577"
+    },
+    {
+        "event_latitude": "43.6915",
+        "id": "2162401765",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-116.33529"
+    },
+    {
+        "event_latitude": "43.69143",
+        "id": "2162401772",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-116.33577"
+    },
+    {
+        "event_latitude": "43.69307",
+        "id": "2162401818",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-116.33956"
+    },
+    {
+        "event_latitude": "44.06171",
+        "id": "2162401658",
+        "event_code": "ACCELERATION_3",
+        "event_longitude": "-93.22539"
+    },
+    {
+        "event_latitude": "45.54342",
+        "id": "2162409218",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.88154"
+    },
+    {
+        "event_latitude": "45.54105",
+        "id": "2162409275",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.87499"
+    },
+    {
+        "event_latitude": "45.42771",
+        "id": "2162415501",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.6345"
+    },
+    {
+        "event_latitude": "45.42072",
+        "id": "2162414599",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.67574"
+    },
+    {
+        "event_latitude": "45.42291",
+        "id": "2162414569",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.67917"
+    },
+    {
+        "event_latitude": "38.84026",
+        "id": "2162420745",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-94.63937"
+    },
+    {
+        "event_latitude": "38.83426",
+        "id": "2162420806",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-94.64137"
+    },
+    {
+        "event_latitude": "38.83195",
+        "id": "2162420843",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-94.64192"
+    },
+    {
+        "event_latitude": "44.63326",
+        "id": "2162428312",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-123.08376"
+    },
+    {
+        "event_latitude": "39.91179",
+        "id": "2162434302",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-83.10722"
+    },
+    {
+        "event_latitude": "39.83903",
+        "id": "2162435063",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-83.07379"
+    },
+    {
+        "event_latitude": "45.02172",
+        "id": "2162435728",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-93.49233"
+    },
+    {
+        "event_latitude": "45.48693",
+        "id": "2162438582",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.74543"
+    },
+    {
+        "event_latitude": "45.48618",
+        "id": "2162438252",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.76128"
+    },
+    {
+        "event_latitude": "45.4862",
+        "id": "2162438135",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.75709"
+    },
+    {
+        "event_latitude": "33.11821",
+        "id": "2162440187",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-111.36268"
+    },
+    {
+        "event_latitude": "33.06955",
+        "id": "2162439524",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.45338"
+    },
+    {
+        "event_latitude": "45.47828",
+        "id": "2162444260",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.74715"
+    },
+    {
+        "event_latitude": "33.64063",
+        "id": "2162442133",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-111.97475"
+    },
+    {
+        "event_latitude": "45.45328",
+        "id": "2162450618",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.72182"
+    },
+    {
+        "event_latitude": "45.4439",
+        "id": "2162450485",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.73788"
+    },
+    {
+        "event_latitude": "45.4259",
+        "id": "2162450179",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.75166"
+    },
+    {
+        "event_latitude": "45.4277",
+        "id": "2162450239",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.75159"
+    },
+    {
+        "event_latitude": "44.35624",
+        "id": "2162449458",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-89.0815"
+    },
+    {
+        "event_latitude": "33.62417",
+        "id": "2162451948",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-112.41849"
+    },
+    {
+        "event_latitude": "33.62398",
+        "id": "2162451787",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-112.38518"
+    },
+    {
+        "event_latitude": "43.69357",
+        "id": "2162451528",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-116.35262"
+    },
+    {
+        "event_latitude": "44.02402",
+        "id": "2162460608",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-121.2974"
+    },
+    {
+        "event_latitude": "44.01897",
+        "id": "2162460710",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-121.29632"
+    },
+    {
+        "event_latitude": "44.00837",
+        "id": "2162460175",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-121.28917"
+    },
+    {
+        "event_latitude": "44.01999",
+        "id": "2162460732",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-121.29714"
+    },
+    {
+        "event_latitude": "45.56226",
+        "id": "2162462004",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.8677"
+    },
+    {
+        "event_latitude": "45.55055",
+        "id": "2162462298",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.8668"
+    },
+    {
+        "event_latitude": "45.56313",
+        "id": "2162461965",
+        "event_code": "ACCELERATION_2",
+        "event_longitude": "-122.86287"
+    },
+    {
+        "event_latitude": "45.55228",
+        "id": "2162462121",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.86754"
+    },
+    {
+        "event_latitude": "45.55847",
+        "id": "2162462478",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.86761"
+    },
+    {
+        "event_latitude": "45.56141",
+        "id": "2162462515",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.8676"
+    },
+    {
+        "event_latitude": "39.43222",
+        "id": "2162464183",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.19253"
+    },
+    {
+        "event_latitude": "33.83298",
+        "id": "2162477326",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-112.14471"
+    },
+    {
+        "event_latitude": "34.06953",
+        "id": "2162478211",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-112.14112"
+    },
+    {
+        "event_latitude": "34.23581",
+        "id": "2162478913",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-112.11149"
+    },
+    {
+        "event_latitude": "33.99066",
+        "id": "2162477917",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-112.13386"
+    },
+    {
+        "event_latitude": "44.09495",
+        "id": "2162470749",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-123.09737"
+    },
+    {
+        "event_latitude": "44.09563",
+        "id": "2162471443",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-123.09661"
+    },
+    {
+        "event_latitude": "38.75085",
+        "id": "2162480038",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.42654"
+    },
+    {
+        "event_latitude": "44.34762",
+        "id": "2162490464",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-120.52615"
+    },
+    {
+        "event_latitude": "44.30519",
+        "id": "2162489216",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-120.82331"
+    },
+    {
+        "event_latitude": "44.35301",
+        "id": "2162490518",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-120.51022"
+    },
+    {
+        "event_latitude": "44.30511",
+        "id": "2162489620",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-120.75104"
+    },
+    {
+        "event_latitude": "44.97614",
+        "id": "2162491127",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-123.02703"
+    },
+    {
+        "event_latitude": "33.31063",
+        "id": "2162492557",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.87625"
+    },
+    {
+        "event_latitude": "45.49475",
+        "id": "2162496000",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-122.5656"
+    },
+    {
+        "event_latitude": "44.98529",
+        "id": "2162505365",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.2026"
+    },
+    {
+        "event_latitude": "45.02761",
+        "id": "2162504364",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.27637"
+    },
+    {
+        "event_latitude": "45.04052",
+        "id": "2162503875",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-93.31874"
+    },
+    {
+        "event_latitude": "45.03695",
+        "id": "2162504079",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.29928"
+    },
+    {
+        "event_latitude": "45.03232",
+        "id": "2162504214",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.28847"
+    },
+    {
+        "event_latitude": "44.98768",
+        "id": "2162505310",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.20251"
+    },
+    {
+        "event_latitude": "45.02261",
+        "id": "2162504771",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.23392"
+    },
+    {
+        "event_latitude": "45.03713",
+        "id": "2162503948",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-93.31839"
+    },
+    {
+        "event_latitude": "45.02564",
+        "id": "2162504618",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.24826"
+    },
+    {
+        "event_latitude": "45.01893",
+        "id": "2162504861",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-93.22679"
+    },
+    {
+        "event_latitude": "45.0369",
+        "id": "2162504090",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-93.29793"
+    },
+    {
+        "event_latitude": "45.02021",
+        "id": "2162504818",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-93.23157"
+    },
+    {
+        "event_latitude": "45.02763",
+        "id": "2162504414",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-93.27465"
+    },
+    {
+        "event_latitude": "45.03712",
+        "id": "2162503954",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-93.31761"
+    },
+    {
+        "event_latitude": "45.02568",
+        "id": "2162504665",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-93.24687"
+    },
+    {
+        "event_latitude": "43.01911",
+        "id": "2162501857",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-89.41938"
+    },
+    {
+        "event_latitude": "44.06743",
+        "id": "2162502256",
+        "event_code": "DECELERATION_2",
+        "event_longitude": "-93.22673"
+    },
+    {
+        "event_latitude": "39.75049",
+        "id": "2162513112",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-84.09264"
+    },
+    {
+        "event_latitude": "45.39702",
+        "id": "2162517422",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.74961"
+    },
+    {
+        "event_latitude": "33.43676",
+        "id": "2162519845",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-112.06552"
+    },
+    {
+        "event_latitude": "33.39217",
+        "id": "2162519044",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-112.11682"
+    },
+    {
+        "event_latitude": "33.39222",
+        "id": "2162519203",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-112.09132"
+    },
+    {
+        "event_latitude": "33.40646",
+        "id": "2162519414",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-112.07332"
+    },
+    {
+        "event_latitude": "45.47223",
+        "id": "2162524544",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.62267"
+    },
+    {
+        "event_latitude": "45.50447",
+        "id": "2162528955",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.49677"
+    },
+    {
+        "event_latitude": "45.50445",
+        "id": "2162529351",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.43592"
+    },
+    {
+        "event_latitude": "45.50446",
+        "id": "2162528918",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.49714"
+    },
+    {
+        "event_latitude": "44.16891",
+        "id": "2162526893",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-94.02552"
+    },
+    {
+        "event_latitude": "46.86975",
+        "id": "2162531896",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-96.82489"
+    },
+    {
+        "event_latitude": "46.86948",
+        "id": "2162531891",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-96.82519"
+    },
+    {
+        "event_latitude": "44.06326",
+        "id": "2162535802",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-123.07682"
+    },
+    {
+        "event_latitude": "44.06047",
+        "id": "2162535994",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-123.07971"
+    },
+    {
+        "event_latitude": "42.97042",
+        "id": "2162538767",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-87.99821"
+    },
+    {
+        "event_latitude": "42.96824",
+        "id": "2162538799",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-88.00224"
+    },
+    {
+        "event_latitude": "42.42248",
+        "id": "2162545919",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-123.22073"
+    },
+    {
+        "event_latitude": "42.44104",
+        "id": "2162546483",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-123.32438"
+    },
+    {
+        "event_latitude": "42.36616",
+        "id": "2162544920",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-122.88885"
+    },
+    {
+        "event_latitude": "42.41464",
+        "id": "2162545256",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-122.9981"
+    },
+    {
+        "event_latitude": "42.41199",
+        "id": "2162545631",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-123.13099"
+    },
+    {
+        "event_latitude": "36.83835",
+        "id": "2162541899",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-94.39496"
+    },
+    {
+        "event_latitude": "36.83617",
+        "id": "2162541856",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-94.39371"
+    },
+    {
+        "event_latitude": "44.95402",
+        "id": "2162552174",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-92.72088"
+    },
+    {
+        "event_latitude": "44.96287",
+        "id": "2162552428",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-92.7561"
+    },
+    {
+        "event_latitude": "33.13487",
+        "id": "2162550114",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.53979"
+    },
+    {
+        "event_latitude": "33.06132",
+        "id": "2162549489",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.46494"
+    },
+    {
+        "event_latitude": "33.13677",
+        "id": "2162550249",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.51917"
+    },
+    {
+        "event_latitude": "33.13659",
+        "id": "2162550261",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-111.51823"
+    },
+    {
+        "event_latitude": "33.06115",
+        "id": "2162549675",
+        "event_code": "ACCELERATION_2",
+        "event_longitude": "-111.48572"
+    },
+    {
+        "event_latitude": "33.06205",
+        "id": "2162549561",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-111.46971"
+    },
+    {
+        "event_latitude": "33.06121",
+        "id": "2162549498",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-111.46545"
+    },
+    {
+        "event_latitude": "33.13429",
+        "id": "2162550294",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.51393"
+    },
+    {
+        "event_latitude": "33.06302",
+        "id": "2162549457",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.464"
+    },
+    {
+        "event_latitude": "33.06102",
+        "id": "2162549667",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.4856"
+    },
+    {
+        "event_latitude": "45.51282",
+        "id": "2162561111",
+        "event_code": "DECELERATION_3",
+        "event_longitude": "-122.83952"
+    },
+    {
+        "event_latitude": "45.52512",
+        "id": "2162560956",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.83953"
+    },
+    {
+        "event_latitude": "45.50788",
+        "id": "2162561177",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.84045"
+    },
+    {
+        "event_latitude": "45.4916",
+        "id": "2162561543",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.83253"
+    },
+    {
+        "event_latitude": "45.50729",
+        "id": "2162561247",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.83971"
+    },
+    {
+        "event_latitude": "45.53869",
+        "id": "2162560700",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.84327"
+    },
+    {
+        "event_latitude": "46.87741",
+        "id": "2162559759",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-96.80372"
+    },
+    {
+        "event_latitude": "45.0371",
+        "id": "2162562570",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.02672"
+    },
+    {
+        "event_latitude": "45.49408",
+        "id": "2162571844",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.94013"
+    },
+    {
+        "event_latitude": "45.46997",
+        "id": "2162571975",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.93177"
+    },
+    {
+        "event_latitude": "45.52008",
+        "id": "2162571398",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.97405"
+    },
+    {
+        "event_latitude": "45.52114",
+        "id": "2162571346",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.97439"
+    },
+    {
+        "event_latitude": "45.49448",
+        "id": "2162571825",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.94021"
+    },
+    {
+        "event_latitude": "45.46184",
+        "id": "2162572420",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.86752"
+    },
+    {
+        "event_latitude": "38.54541",
+        "id": "2162574029",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-91.01675"
+    },
+    {
+        "event_latitude": "38.54227",
+        "id": "2162574094",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-91.01759"
+    },
+    {
+        "event_latitude": "44.04788",
+        "id": "2162577852",
+        "event_code": "ACCELERATION_2",
+        "event_longitude": "-123.13558"
+    },
+    {
+        "event_latitude": "41.70987",
+        "id": "2162578559",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-83.67689"
+    },
+    {
+        "event_latitude": "45.40863",
+        "id": "2162579768",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.7233"
+    },
+    {
+        "event_latitude": "39.95479",
+        "id": "2162584166",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-83.07749"
+    },
+    {
+        "event_latitude": "45.59125",
+        "id": "2162585867",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.99639"
+    },
+    {
+        "event_latitude": "43.13016",
+        "id": "2162584804",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-87.91301"
+    },
+    {
+        "event_latitude": "45.40663",
+        "id": "2162586144",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.7265"
+    },
+    {
+        "event_latitude": "45.29077",
+        "id": "2162591790",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.56431"
+    },
+    {
+        "event_latitude": "45.32335",
+        "id": "2162591545",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.57898"
+    },
+    {
+        "event_latitude": "47.75904",
+        "id": "2162596407",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-116.78677"
+    },
+    {
+        "event_latitude": "44.89754",
+        "id": "2162611641",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-89.50449"
+    },
+    {
+        "event_latitude": "44.88408",
+        "id": "2162611426",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-89.43718"
+    },
+    {
+        "event_latitude": "40.09971",
+        "id": "2162618364",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-84.60481"
+    },
+    {
+        "event_latitude": "44.29354",
+        "id": "2162616080",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.27784"
+    },
+    {
+        "event_latitude": "32.29483",
+        "id": "2162632917",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-110.75429"
+    },
+    {
+        "event_latitude": "32.23626",
+        "id": "2162633793",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-110.87512"
+    },
+    {
+        "event_latitude": "44.0285",
+        "id": "2162635844",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-92.6483"
+    },
+    {
+        "event_latitude": "44.02714",
+        "id": "2162636495",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-92.46822"
+    },
+    {
+        "event_latitude": "32.20703",
+        "id": "2162634560",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-110.8745"
+    },
+    {
+        "event_latitude": "38.73713",
+        "id": "2162637424",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.30473"
+    },
+    {
+        "event_latitude": "38.73019",
+        "id": "2162637533",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.30662"
+    },
+    {
+        "event_latitude": "38.95313",
+        "id": "2162655116",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-92.12886"
+    },
+    {
+        "event_latitude": "38.95871",
+        "id": "2162654927",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-92.19061"
+    },
+    {
+        "event_latitude": "45.43546",
+        "id": "2162660623",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.75609"
+    },
+    {
+        "event_latitude": "45.36716",
+        "id": "2162663914",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.8394"
+    },
+    {
+        "event_latitude": "45.36559",
+        "id": "2162664695",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.84696"
+    },
+    {
+        "event_latitude": "33.26347",
+        "id": "2162672737",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.72063"
+    },
+    {
+        "event_latitude": "42.93877",
+        "id": "2162676491",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-87.9093"
+    },
+    {
+        "event_latitude": "42.95906",
+        "id": "2162676182",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-87.88256"
+    },
+    {
+        "event_latitude": "42.9591",
+        "id": "2162676180",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-87.88244"
+    },
+    {
+        "event_latitude": "44.03215",
+        "id": "2162678314",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-121.34653"
+    },
+    {
+        "event_latitude": "39.12761",
+        "id": "2162695789",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.60554"
+    },
+    {
+        "event_latitude": "39.10879",
+        "id": "2162693036",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.5982"
+    },
+    {
+        "event_latitude": "39.1835",
+        "id": "2162694140",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.48328"
+    },
+    {
+        "event_latitude": "39.10724",
+        "id": "2162693119",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.58596"
+    },
+    {
+        "event_latitude": "39.10618",
+        "id": "2162694933",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-84.53205"
+    },
+    {
+        "event_latitude": "39.11823",
+        "id": "2162695690",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-84.59891"
+    },
+    {
+        "event_latitude": "39.11398",
+        "id": "2162693345",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-84.57643"
+    },
+    {
+        "event_latitude": "39.10406",
+        "id": "2162694953",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.53314"
+    },
+    {
+        "event_latitude": "39.1251",
+        "id": "2162693576",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-84.55349"
+    },
+    {
+        "event_latitude": "44.02135",
+        "id": "2162698395",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-121.31625"
+    },
+    {
+        "event_latitude": "42.93549",
+        "id": "2162700936",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-88.06527"
+    },
+    {
+        "event_latitude": "45.41527",
+        "id": "2162705683",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.6633"
+    },
+    {
+        "event_latitude": "43.04325",
+        "id": "2162710441",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-87.94753"
+    },
+    {
+        "event_latitude": "43.00319",
+        "id": "2162710999",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-87.95804"
+    },
+    {
+        "event_latitude": "42.98858",
+        "id": "2162711202",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-87.96794"
+    },
+    {
+        "event_latitude": "45.50457",
+        "id": "2162717461",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.43508"
+    },
+    {
+        "event_latitude": "45.51346",
+        "id": "2162717955",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.49656"
+    },
+    {
+        "event_latitude": "45.50504",
+        "id": "2162717316",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.41476"
+    },
+    {
+        "event_latitude": "45.50458",
+        "id": "2162717662",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.46733"
+    },
+    {
+        "event_latitude": "45.50468",
+        "id": "2162717885",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.49626"
+    },
+    {
+        "event_latitude": "43.03672",
+        "id": "2162720953",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-89.40533"
+    },
+    {
+        "event_latitude": "42.29263",
+        "id": "2162725372",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.87746"
+    },
+    {
+        "event_latitude": "42.2931",
+        "id": "2162725154",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.84018"
+    },
+    {
+        "event_latitude": "42.2351",
+        "id": "2162724671",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-122.75477"
+    },
+    {
+        "event_latitude": "42.294",
+        "id": "2162725439",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.88861"
+    },
+    {
+        "event_latitude": "42.29263",
+        "id": "2162725377",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.8777"
+    },
+    {
+        "event_latitude": "42.29725",
+        "id": "2162725516",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.90634"
+    },
+    {
+        "event_latitude": "44.34074",
+        "id": "2162723121",
+        "event_code": "CORNERING_R1",
+        "event_longitude": "-121.16556"
+    },
+    {
+        "event_latitude": "44.29102",
+        "id": "2162723585",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-121.16231"
+    },
+    {
+        "event_latitude": "44.29099",
+        "id": "2162723579",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-121.16327"
+    },
+    {
+        "event_latitude": "44.30319",
+        "id": "2162723418",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-121.16882"
+    },
+    {
+        "event_latitude": "33.58251",
+        "id": "2162743742",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-111.83386"
+    },
+    {
+        "event_latitude": "33.61432",
+        "id": "2162743100",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-111.75268"
+    },
+    {
+        "event_latitude": "33.58251",
+        "id": "2162743798",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-111.8425"
+    },
+    {
+        "event_latitude": "33.5825",
+        "id": "2162743534",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.78695"
+    },
+    {
+        "event_latitude": "33.58068",
+        "id": "2162744599",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.85121"
+    },
+    {
+        "event_latitude": "33.5825",
+        "id": "2162743528",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.78629"
+    },
+    {
+        "event_latitude": "33.60835",
+        "id": "2162745493",
+        "event_code": "DECELERATION_2",
+        "event_longitude": "-111.72"
+    },
+    {
+        "event_latitude": "33.57977",
+        "id": "2162743417",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.7624"
+    },
+    {
+        "event_latitude": "33.60499",
+        "id": "2162745456",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.7215"
+    },
+    {
+        "event_latitude": "33.61392",
+        "id": "2162745679",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.70392"
+    },
+    {
+        "event_latitude": "33.60217",
+        "id": "2162743199",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.75704"
+    },
+    {
+        "event_latitude": "33.59193",
+        "id": "2162745301",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.72957"
+    },
+    {
+        "event_latitude": "33.60179",
+        "id": "2162743207",
+        "event_code": "ACCELERATION_2",
+        "event_longitude": "-111.75703"
+    },
+    {
+        "event_latitude": "33.58172",
+        "id": "2162745161",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.74189"
+    },
+    {
+        "event_latitude": "33.58082",
+        "id": "2162743332",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.75699"
+    },
+    {
+        "event_latitude": "33.59506",
+        "id": "2162743256",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-111.75728"
+    },
+    {
+        "event_latitude": "33.59167",
+        "id": "2162745296",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.72991"
+    },
+    {
+        "event_latitude": "33.60953",
+        "id": "2162745533",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.71516"
+    },
+    {
+        "event_latitude": "33.59797",
+        "id": "2162745349",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.72791"
+    },
+    {
+        "event_latitude": "33.57711",
+        "id": "2162744560",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-111.85245"
+    },
+    {
+        "event_latitude": "33.5825",
+        "id": "2162743730",
+        "event_code": "DECELERATION_2",
+        "event_longitude": "-111.83273"
+    },
+    {
+        "event_latitude": "33.58251",
+        "id": "2162743787",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.84213"
+    },
+    {
+        "event_latitude": "33.60176",
+        "id": "2162745419",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.72297"
+    },
+    {
+        "event_latitude": "33.5799",
+        "id": "2162743407",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.7616"
+    },
+    {
+        "event_latitude": "33.59825",
+        "id": "2162745374",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.72579"
+    },
+    {
+        "event_latitude": "33.6051",
+        "id": "2162745460",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-111.72146"
+    },
+    {
+        "event_latitude": "33.58252",
+        "id": "2162743849",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.8515"
+    },
+    {
+        "event_latitude": "43.86303",
+        "id": "2162737830",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.76082"
+    },
+    {
+        "event_latitude": "43.82824",
+        "id": "2162737538",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.7844"
+    },
+    {
+        "event_latitude": "42.71996",
+        "id": "2162738207",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-88.99682"
+    },
+    {
+        "event_latitude": "45.42492",
+        "id": "2162749597",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.51222"
+    },
+    {
+        "event_latitude": "45.43624",
+        "id": "2162749932",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.56656"
+    },
+    {
+        "event_latitude": "45.42855",
+        "id": "2162749715",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.53698"
+    },
+    {
+        "event_latitude": "44.95422",
+        "id": "2162751319",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-93.04146"
+    },
+    {
+        "event_latitude": "45.5152",
+        "id": "2162752869",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.88819"
+    },
+    {
+        "event_latitude": "38.59667",
+        "id": "2162754239",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.47431"
+    },
+    {
+        "event_latitude": "38.59298",
+        "id": "2162753612",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-90.55176"
+    },
+    {
+        "event_latitude": "39.10013",
+        "id": "2162758681",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-84.26125"
+    },
+    {
+        "event_latitude": "45.36453",
+        "id": "2162770741",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.61116"
+    },
+    {
+        "event_latitude": "45.46636",
+        "id": "2162771382",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.5666"
+    },
+    {
+        "event_latitude": "45.36338",
+        "id": "2162770773",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.61022"
+    },
+    {
+        "event_latitude": "43.06032",
+        "id": "2162769172",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-88.10931"
+    },
+    {
+        "event_latitude": "43.049",
+        "id": "2162769009",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-88.10514"
+    },
+    {
+        "event_latitude": "40.1468",
+        "id": "2162776041",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-82.99251"
+    },
+    {
+        "event_latitude": "39.11358",
+        "id": "2162790972",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.53091"
+    },
+    {
+        "event_latitude": "33.65532",
+        "id": "2162782401",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-112.18638"
+    },
+    {
+        "event_latitude": "38.80267",
+        "id": "2162783405",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-90.66977"
+    },
+    {
+        "event_latitude": "33.59634",
+        "id": "2162786161",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-112.17297"
+    },
+    {
+        "event_latitude": "33.59633",
+        "id": "2162786004",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-112.1551"
+    },
+    {
+        "event_latitude": "38.77413",
+        "id": "2162817728",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-90.41146"
+    },
+    {
+        "event_latitude": "38.8026",
+        "id": "2162815433",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.66906"
+    },
+    {
+        "event_latitude": "38.78538",
+        "id": "2162817562",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.41538"
+    },
+    {
+        "event_latitude": "38.76394",
+        "id": "2162817800",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.42042"
+    },
+    {
+        "event_latitude": "38.75951",
+        "id": "2162817239",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-90.46929"
+    },
+    {
+        "event_latitude": "38.8001",
+        "id": "2162816777",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-90.62505"
+    },
+    {
+        "event_latitude": "38.75928",
+        "id": "2162821090",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-90.43481"
+    },
+    {
+        "event_latitude": "38.75915",
+        "id": "2162821068",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.43469"
+    },
+    {
+        "event_latitude": "38.76386",
+        "id": "2162820986",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-90.42057"
+    },
+    {
+        "event_latitude": "38.79942",
+        "id": "2162815461",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.669"
+    },
+    {
+        "event_latitude": "38.78792",
+        "id": "2162817593",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.41871"
+    },
+    {
+        "event_latitude": "38.76033",
+        "id": "2162817397",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-90.42749"
+    },
+    {
+        "event_latitude": "45.48725",
+        "id": "2162808051",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.74715"
+    },
+    {
+        "event_latitude": "45.47835",
+        "id": "2162807773",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.74708"
+    },
+    {
+        "event_latitude": "45.4974",
+        "id": "2162809740",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.43336"
+    },
+    {
+        "event_latitude": "45.49344",
+        "id": "2162809493",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.4046"
+    },
+    {
+        "event_latitude": "45.49839",
+        "id": "2162809819",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.43424"
+    },
+    {
+        "event_latitude": "45.52761",
+        "id": "2162810140",
+        "event_code": "DECELERATION_2",
+        "event_longitude": "-122.43361"
+    },
+    {
+        "event_latitude": "45.47654",
+        "id": "2162809136",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.37252"
+    },
+    {
+        "event_latitude": "45.53369",
+        "id": "2162810391",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.44568"
+    },
+    {
+        "event_latitude": "45.5332",
+        "id": "2162810247",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.43363"
+    },
+    {
+        "event_latitude": "45.49055",
+        "id": "2162809361",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.3945"
+    },
+    {
+        "event_latitude": "45.53366",
+        "id": "2162810401",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.44656"
+    },
+    {
+        "event_latitude": "45.48626",
+        "id": "2162809211",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.37262"
+    },
+    {
+        "event_latitude": "45.49913",
+        "id": "2162809860",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.43704"
+    },
+    {
+        "event_latitude": "45.49357",
+        "id": "2162809559",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.40505"
+    },
+    {
+        "event_latitude": "45.50327",
+        "id": "2162809896",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.43577"
+    },
+    {
+        "event_latitude": "45.52707",
+        "id": "2162810134",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.43363"
+    },
+    {
+        "event_latitude": "39.08336",
+        "id": "2162814633",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-84.15059"
+    },
+    {
+        "event_latitude": "42.50742",
+        "id": "2162822790",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-113.74445"
+    },
+    {
+        "event_latitude": "39.11559",
+        "id": "2162829694",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-94.59098"
+    },
+    {
+        "event_latitude": "44.2887",
+        "id": "2162830394",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-96.77807"
+    },
+    {
+        "event_latitude": "42.59156",
+        "id": "2162831054",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-88.43028"
+    },
+    {
+        "event_latitude": "42.59164",
+        "id": "2162831060",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-88.42981"
+    },
+    {
+        "event_latitude": "43.99934",
+        "id": "2162837208",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-88.58084"
+    },
+    {
+        "event_latitude": "43.78201",
+        "id": "2162836057",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-88.5022"
+    },
+    {
+        "event_latitude": "41.36435",
+        "id": "2162844649",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-81.92377"
+    },
+    {
+        "event_latitude": "41.03848",
+        "id": "2162846831",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-81.63813"
+    },
+    {
+        "event_latitude": "42.34702",
+        "id": "2162838049",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.88012"
+    },
+    {
+        "event_latitude": "44.0526",
+        "id": "2162854037",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-123.33014"
+    },
+    {
+        "event_latitude": "45.5058",
+        "id": "2162859658",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.68179"
+    },
+    {
+        "event_latitude": "45.51303",
+        "id": "2162860117",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.79087"
+    },
+    {
+        "event_latitude": "45.49662",
+        "id": "2162858304",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.56227"
+    },
+    {
+        "event_latitude": "45.51541",
+        "id": "2162860361",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.81833"
+    },
+    {
+        "event_latitude": "45.51342",
+        "id": "2162860671",
+        "event_code": "ACCELERATION_2",
+        "event_longitude": "-122.82759"
+    },
+    {
+        "event_latitude": "45.49754",
+        "id": "2162858608",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.58851"
+    },
+    {
+        "event_latitude": "45.49751",
+        "id": "2162858433",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.57606"
+    },
+    {
+        "event_latitude": "45.49685",
+        "id": "2162858994",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.63184"
+    },
+    {
+        "event_latitude": "45.51503",
+        "id": "2162860368",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.81855"
+    },
+    {
+        "event_latitude": "45.49754",
+        "id": "2162858625",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.58865"
+    },
+    {
+        "event_latitude": "45.51495",
+        "id": "2162860391",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.81862"
+    },
+    {
+        "event_latitude": "45.50357",
+        "id": "2162859551",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.67733"
+    },
+    {
+        "event_latitude": "45.49758",
+        "id": "2162858732",
+        "event_code": "DECELERATION_2",
+        "event_longitude": "-122.60747"
+    },
+    {
+        "event_latitude": "45.49643",
+        "id": "2162858230",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.55001"
+    },
+    {
+        "event_latitude": "45.53471",
+        "id": "2162870153",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.4796"
+    },
+    {
+        "event_latitude": "45.51545",
+        "id": "2162869929",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.47585"
+    },
+    {
+        "event_latitude": "45.32234",
+        "id": "2162868795",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-92.70496"
+    },
+    {
+        "event_latitude": "44.59414",
+        "id": "2162876733",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-92.49492"
+    },
+    {
+        "event_latitude": "38.79445",
+        "id": "2162873014",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-90.56702"
+    },
+    {
+        "event_latitude": "38.65586",
+        "id": "2162873794",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.44897"
+    },
+    {
+        "event_latitude": "44.29811",
+        "id": "2162879512",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-93.27177"
+    },
+    {
+        "event_latitude": "43.01728",
+        "id": "2162881172",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-88.10722"
+    },
+    {
+        "event_latitude": "36.31927",
+        "id": "2162887017",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-94.18512"
+    },
+    {
+        "event_latitude": "43.52937",
+        "id": "2162889767",
+        "event_code": "ACCELERATION_2",
+        "event_longitude": "-96.69888"
+    },
+    {
+        "event_latitude": "36.74785",
+        "id": "2162902604",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-94.42789"
+    },
+    {
+        "event_latitude": "36.57053",
+        "id": "2162901977",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-94.38642"
+    },
+    {
+        "event_latitude": "36.44064",
+        "id": "2162901016",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-94.23823"
+    },
+    {
+        "event_latitude": "36.65967",
+        "id": "2162902299",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-94.41975"
+    },
+    {
+        "event_latitude": "45.48567",
+        "id": "2162918877",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-91.73152"
+    },
+    {
+        "event_latitude": "39.22685",
+        "id": "2162905331",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.2785"
+    },
+    {
+        "event_latitude": "39.1738",
+        "id": "2162905890",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.29527"
+    },
+    {
+        "event_latitude": "39.22481",
+        "id": "2162905219",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.2666"
+    },
+    {
+        "event_latitude": "43.04898",
+        "id": "2162913370",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.21919"
+    },
+    {
+        "event_latitude": "43.02878",
+        "id": "2162913604",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.13146"
+    },
+    {
+        "event_latitude": "44.02883",
+        "id": "2162919394",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-121.31563"
+    },
+    {
+        "event_latitude": "41.43125",
+        "id": "2162927054",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-81.39162"
+    },
+    {
+        "event_latitude": "41.43229",
+        "id": "2162926993",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-81.38338"
+    },
+    {
+        "event_latitude": "45.52661",
+        "id": "2162930872",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.81405"
+    },
+    {
+        "event_latitude": "45.48607",
+        "id": "2162935429",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.74894"
+    },
+    {
+        "event_latitude": "33.37929",
+        "id": "2162937569",
+        "event_code": "DECELERATION_2",
+        "event_longitude": "-111.72215"
+    },
+    {
+        "event_latitude": "33.37923",
+        "id": "2162937863",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.75343"
+    },
+    {
+        "event_latitude": "33.38059",
+        "id": "2162937944",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.75644"
+    },
+    {
+        "event_latitude": "38.34806",
+        "id": "2162947333",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.39655"
+    },
+    {
+        "event_latitude": "38.34767",
+        "id": "2162947375",
+        "event_code": "CORNERING_R1",
+        "event_longitude": "-90.39611"
+    },
+    {
+        "event_latitude": "33.85999",
+        "id": "2162946281",
+        "event_code": "SPEEDING_3",
+        "event_longitude": "-112.14508"
+    },
+    {
+        "event_latitude": "33.76779",
+        "id": "2162946583",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-112.1292"
+    },
+    {
+        "event_latitude": "45.37282",
+        "id": "2162949425",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.59016"
+    },
+    {
+        "event_latitude": "32.3953",
+        "id": "2162955384",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.0385"
+    },
+    {
+        "event_latitude": "33.32031",
+        "id": "2162956849",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-111.87635"
+    },
+    {
+        "event_latitude": "33.30616",
+        "id": "2162956729",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.87589"
+    },
+    {
+        "event_latitude": "33.32045",
+        "id": "2162956984",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-111.8932"
+    },
+    {
+        "event_latitude": "33.30588",
+        "id": "2162956703",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.87199"
+    },
+    {
+        "event_latitude": "33.30615",
+        "id": "2162956734",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-111.87605"
+    },
+    {
+        "event_latitude": "44.29378",
+        "id": "2162969706",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.26836"
+    },
+    {
+        "event_latitude": "40.34609",
+        "id": "2162969073",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-94.87289"
+    },
+    {
+        "event_latitude": "45.5306",
+        "id": "2162972282",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.95714"
+    },
+    {
+        "event_latitude": "33.79597",
+        "id": "2162977355",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.96577"
+    },
+    {
+        "event_latitude": "33.79227",
+        "id": "2162976879",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.89132"
+    },
+    {
+        "event_latitude": "33.86105",
+        "id": "2162976246",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.8572"
+    },
+    {
+        "event_latitude": "33.79217",
+        "id": "2162977057",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-111.9258"
+    },
+    {
+        "event_latitude": "43.15393",
+        "id": "2162970738",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-88.00526"
+    },
+    {
+        "event_latitude": "43.14857",
+        "id": "2162970919",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-87.98578"
+    },
+    {
+        "event_latitude": "43.14889",
+        "id": "2162970826",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-88.00533"
+    },
+    {
+        "event_latitude": "43.14904",
+        "id": "2162970772",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-88.00536"
+    },
+    {
+        "event_latitude": "43.14855",
+        "id": "2162970907",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-87.98641"
+    },
+    {
+        "event_latitude": "43.14801",
+        "id": "2162971153",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-87.93693"
+    },
+    {
+        "event_latitude": "40.83201",
+        "id": "2162981770",
+        "event_code": "ACCELERATION_2",
+        "event_longitude": "-81.38787"
+    },
+    {
+        "event_latitude": "45.52665",
+        "id": "2162986295",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.62278"
+    },
+    {
+        "event_latitude": "38.20158",
+        "id": "2162989208",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.3958"
+    },
+    {
+        "event_latitude": "44.17014",
+        "id": "2162997058",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-94.00882"
+    },
+    {
+        "event_latitude": "44.26961",
+        "id": "2162996296",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-94.02155"
+    },
+    {
+        "event_latitude": "41.15035",
+        "id": "2162991138",
+        "event_code": "ACCELERATION_3",
+        "event_longitude": "-81.36014"
+    },
+    {
+        "event_latitude": "43.79317",
+        "id": "2162992385",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-123.06191"
+    },
+    {
+        "event_latitude": "38.64878",
+        "id": "2162998377",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-90.54127"
+    },
+    {
+        "event_latitude": "38.63484",
+        "id": "2162998113",
+        "event_code": "DECELERATION_2",
+        "event_longitude": "-90.56208"
+    },
+    {
+        "event_latitude": "38.64101",
+        "id": "2162998228",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-90.56805"
+    },
+    {
+        "event_latitude": "38.63912",
+        "id": "2162998168",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.56257"
+    },
+    {
+        "event_latitude": "38.63232",
+        "id": "2162997944",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.56573"
+    },
+    {
+        "event_latitude": "38.63013",
+        "id": "2162997906",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-90.5647"
+    },
+    {
+        "event_latitude": "38.63029",
+        "id": "2162998975",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.36227"
+    },
+    {
+        "event_latitude": "38.65405",
+        "id": "2162999239",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.40535"
+    },
+    {
+        "event_latitude": "38.6298",
+        "id": "2162998920",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.36366"
+    },
+    {
+        "event_latitude": "38.65204",
+        "id": "2162998306",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.55917"
+    },
+    {
+        "event_latitude": "38.62968",
+        "id": "2162998929",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.36251"
+    },
+    {
+        "event_latitude": "38.63978",
+        "id": "2162998183",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-90.5628"
+    },
+    {
+        "event_latitude": "38.63026",
+        "id": "2162998987",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-90.36352"
+    },
+    {
+        "event_latitude": "38.63614",
+        "id": "2162999129",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.40491"
+    },
+    {
+        "event_latitude": "43.78691",
+        "id": "2162993565",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-123.05789"
+    },
+    {
+        "event_latitude": "33.51644",
+        "id": "2162994988",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-112.03903"
+    },
+    {
+        "event_latitude": "33.51644",
+        "id": "2162994996",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-112.03876"
+    },
+    {
+        "event_latitude": "33.50983",
+        "id": "2162995282",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-112.01315"
+    },
+    {
+        "event_latitude": "44.05342",
+        "id": "2163003400",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-123.10278"
+    },
+    {
+        "event_latitude": "43.89883",
+        "id": "2163002442",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-123.01469"
+    },
+    {
+        "event_latitude": "43.77476",
+        "id": "2163001966",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-123.05938"
+    },
+    {
+        "event_latitude": "43.94572",
+        "id": "2163002616",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-123.00872"
+    },
+    {
+        "event_latitude": "44.04152",
+        "id": "2163003028",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-123.04956"
+    },
+    {
+        "event_latitude": "44.28532",
+        "id": "2163001148",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-94.00463"
+    },
+    {
+        "event_latitude": "44.17529",
+        "id": "2163000533",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-94.03361"
+    },
+    {
+        "event_latitude": "45.62214",
+        "id": "2163012151",
+        "event_code": "CORNERING_R1",
+        "event_longitude": "-122.55765"
+    },
+    {
+        "event_latitude": "45.43634",
+        "id": "2163010950",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.56927"
+    },
+    {
+        "event_latitude": "45.45478",
+        "id": "2163011265",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.57145"
+    },
+    {
+        "event_latitude": "45.45129",
+        "id": "2163011139",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.57897"
+    },
+    {
+        "event_latitude": "45.45542",
+        "id": "2163011277",
+        "event_code": "CORNERING_R1",
+        "event_longitude": "-122.57263"
+    },
+    {
+        "event_latitude": "45.26678",
+        "id": "2163019815",
+        "event_code": "CORNERING_R1",
+        "event_longitude": "-122.73178"
+    },
+    {
+        "event_latitude": "45.45263",
+        "id": "2163018766",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.72687"
+    },
+    {
+        "event_latitude": "38.2252",
+        "id": "2163024992",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-91.15611"
+    },
+    {
+        "event_latitude": "38.17524",
+        "id": "2163025241",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-91.2118"
+    },
+    {
+        "event_latitude": "38.14663",
+        "id": "2163025426",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-91.26346"
+    },
+    {
+        "event_latitude": "38.08893",
+        "id": "2163025812",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-91.37733"
+    },
+    {
+        "event_latitude": "38.22509",
+        "id": "2163024985",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-91.15585"
+    },
+    {
+        "event_latitude": "45.6231",
+        "id": "2163017269",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.58334"
+    },
+    {
+        "event_latitude": "45.3014",
+        "id": "2163017128",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.97925"
+    },
+    {
+        "event_latitude": "42.94505",
+        "id": "2163020636",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-87.98649"
+    },
+    {
+        "event_latitude": "43.05348",
+        "id": "2163021551",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-87.88621"
+    },
+    {
+        "event_latitude": "43.03593",
+        "id": "2163021332",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-87.90316"
+    },
+    {
+        "event_latitude": "43.05566",
+        "id": "2163021588",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-87.88481"
+    },
+    {
+        "event_latitude": "42.94478",
+        "id": "2163020620",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-87.98821"
+    },
+    {
+        "event_latitude": "42.95206",
+        "id": "2163020710",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-87.97773"
+    },
+    {
+        "event_latitude": "45.38025",
+        "id": "2163029518",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.75999"
+    },
+    {
+        "event_latitude": "45.35993",
+        "id": "2163028562",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.8577"
+    },
+    {
+        "event_latitude": "45.38112",
+        "id": "2163029189",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.76793"
+    },
+    {
+        "event_latitude": "45.30039",
+        "id": "2163028031",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.97031"
+    },
+    {
+        "event_latitude": "45.3011",
+        "id": "2163028011",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.97073"
+    },
+    {
+        "event_latitude": "45.49457",
+        "id": "2163030289",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.67341"
+    },
+    {
+        "event_latitude": "45.38033",
+        "id": "2163029558",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.75906"
+    },
+    {
+        "event_latitude": "45.36817",
+        "id": "2163028829",
+        "event_code": "ACCELERATION_2",
+        "event_longitude": "-122.81707"
+    },
+    {
+        "event_latitude": "45.30071",
+        "id": "2163028019",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.97073"
+    },
+    {
+        "event_latitude": "45.38108",
+        "id": "2163029133",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.768"
+    },
+    {
+        "event_latitude": "45.36917",
+        "id": "2163028651",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.84405"
+    },
+    {
+        "event_latitude": "45.03776",
+        "id": "2163034225",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.76689"
+    },
+    {
+        "event_latitude": "45.60391",
+        "id": "2163035268",
+        "event_code": "CORNERING_R1",
+        "event_longitude": "-122.5509"
+    },
+    {
+        "event_latitude": "45.57266",
+        "id": "2163035016",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.55022"
+    },
+    {
+        "event_latitude": "45.57074",
+        "id": "2163035048",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.54923"
+    },
+    {
+        "event_latitude": "45.60509",
+        "id": "2163035252",
+        "event_code": "CORNERING_R1",
+        "event_longitude": "-122.54962"
+    },
+    {
+        "event_latitude": "45.50977",
+        "id": "2163036240",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-92.10352"
+    },
+    {
+        "event_latitude": "45.52054",
+        "id": "2163036623",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-92.05219"
+    },
+    {
+        "event_latitude": "45.58199",
+        "id": "2163039308",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.66157"
+    },
+    {
+        "event_latitude": "35.03776",
+        "id": "2163047334",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-110.72035"
+    },
+    {
+        "event_latitude": "35.03774",
+        "id": "2163047316",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-110.72706"
+    },
+    {
+        "event_latitude": "43.69213",
+        "id": "2163050607",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-116.3139"
+    },
+    {
+        "event_latitude": "43.73553",
+        "id": "2163050901",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-116.30654"
+    },
+    {
+        "event_latitude": "38.97119",
+        "id": "2163058563",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-94.35773"
+    },
+    {
+        "event_latitude": "38.94081",
+        "id": "2163057905",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-94.39138"
+    },
+    {
+        "event_latitude": "44.05816",
+        "id": "2163070212",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-121.3073"
+    },
+    {
+        "event_latitude": "44.1962",
+        "id": "2163069359",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-121.34321"
+    },
+    {
+        "event_latitude": "44.19608",
+        "id": "2163069363",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-121.3432"
+    },
+    {
+        "event_latitude": "44.09257",
+        "id": "2163069983",
+        "event_code": "DECELERATION_2",
+        "event_longitude": "-121.30451"
+    },
+    {
+        "event_latitude": "46.83253",
+        "id": "2163071453",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-96.86197"
+    },
+    {
+        "event_latitude": "40.095",
+        "id": "2163076117",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-82.91026"
+    },
+    {
+        "event_latitude": "45.39599",
+        "id": "2163073863",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.74627"
+    },
+    {
+        "event_latitude": "33.39273",
+        "id": "2163079990",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.98572"
+    },
+    {
+        "event_latitude": "45.45312",
+        "id": "2163078299",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.57927"
+    },
+    {
+        "event_latitude": "47.16051",
+        "id": "2163108999",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-100.28351"
+    },
+    {
+        "event_latitude": "46.83673",
+        "id": "2163110849",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-100.44495"
+    },
+    {
+        "event_latitude": "46.83676",
+        "id": "2163110887",
+        "event_code": "SPEEDING_2",
+        "event_longitude": "-100.46283"
+    },
+    {
+        "event_latitude": "46.83724",
+        "id": "2163111168",
+        "event_code": "SPEEDING_2",
+        "event_longitude": "-100.58624"
+    },
+    {
+        "event_latitude": "46.8315",
+        "id": "2163111500",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-100.73336"
+    },
+    {
+        "event_latitude": "47.44148",
+        "id": "2163107927",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-100.24627"
+    },
+    {
+        "event_latitude": "47.01439",
+        "id": "2163109792",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-100.28379"
+    },
+    {
+        "event_latitude": "47.27127",
+        "id": "2163108608",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-100.28306"
+    },
+    {
+        "event_latitude": "44.92801",
+        "id": "2163097265",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-123.01079"
+    },
+    {
+        "event_latitude": "44.934",
+        "id": "2163097678",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-123.0156"
+    },
+    {
+        "event_latitude": "45.00927",
+        "id": "2163100733",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.99886"
+    },
+    {
+        "event_latitude": "44.25509",
+        "id": "2163112758",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-94.02772"
+    },
+    {
+        "event_latitude": "44.3489",
+        "id": "2163111969",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-93.95175"
+    },
+    {
+        "event_latitude": "45.55083",
+        "id": "2163104557",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.91359"
+    },
+    {
+        "event_latitude": "45.08475",
+        "id": "2163113632",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-92.19735"
+    },
+    {
+        "event_latitude": "38.42274",
+        "id": "2163121967",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.59785"
+    },
+    {
+        "event_latitude": "43.10388",
+        "id": "2163125697",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-87.907"
+    },
+    {
+        "event_latitude": "43.11333",
+        "id": "2163125984",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-87.90443"
+    },
+    {
+        "event_latitude": "33.65481",
+        "id": "2163134237",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-112.13449"
+    },
+    {
+        "event_latitude": "33.68448",
+        "id": "2163136188",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-112.2031"
+    },
+    {
+        "event_latitude": "35.04152",
+        "id": "2163131303",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-110.74626"
+    },
+    {
+        "event_latitude": "45.41618",
+        "id": "2163138465",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.58819"
+    },
+    {
+        "event_latitude": "45.83938",
+        "id": "2163140973",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-119.29112"
+    },
+    {
+        "event_latitude": "45.41216",
+        "id": "2163143858",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.62239"
+    },
+    {
+        "event_latitude": "39.2283",
+        "id": "2163147427",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-84.36693"
+    },
+    {
+        "event_latitude": "39.27183",
+        "id": "2163147241",
+        "event_code": "CORNERING_R1",
+        "event_longitude": "-84.3505"
+    },
+    {
+        "event_latitude": "39.15353",
+        "id": "2163146545",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-84.25441"
+    },
+    {
+        "event_latitude": "45.78442",
+        "id": "2163156261",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-119.32841"
+    },
+    {
+        "event_latitude": "45.82195",
+        "id": "2163156533",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-119.38332"
+    },
+    {
+        "event_latitude": "45.98769",
+        "id": "2163157248",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-119.30159"
+    },
+    {
+        "event_latitude": "46.11047",
+        "id": "2163157792",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-119.20768"
+    },
+    {
+        "event_latitude": "43.02884",
+        "id": "2163153183",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.131"
+    },
+    {
+        "event_latitude": "42.78076",
+        "id": "2163163853",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-89.00449"
+    },
+    {
+        "event_latitude": "43.0075",
+        "id": "2163165033",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-89.21746"
+    },
+    {
+        "event_latitude": "42.90013",
+        "id": "2163164377",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-89.07907"
+    },
+    {
+        "event_latitude": "39.24461",
+        "id": "2163155111",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-94.45722"
+    },
+    {
+        "event_latitude": "44.92514",
+        "id": "2163155410",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-89.55256"
+    },
+    {
+        "event_latitude": "44.88595",
+        "id": "2163160442",
+        "event_code": "SPEEDING_3",
+        "event_longitude": "-89.45533"
+    },
+    {
+        "event_latitude": "44.89227",
+        "id": "2163162805",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-89.50011"
+    },
+    {
+        "event_latitude": "44.88408",
+        "id": "2163162645",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-89.43743"
+    },
+    {
+        "event_latitude": "44.89751",
+        "id": "2163162843",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-89.50446"
+    },
+    {
+        "event_latitude": "44.11033",
+        "id": "2163166793",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.52397"
+    },
+    {
+        "event_latitude": "44.05743",
+        "id": "2163167024",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.57544"
+    },
+    {
+        "event_latitude": "38.7664",
+        "id": "2163167972",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-90.41469"
+    },
+    {
+        "event_latitude": "44.06001",
+        "id": "2163169011",
+        "event_code": "DECELERATION_2",
+        "event_longitude": "-121.29656"
+    },
+    {
+        "event_latitude": "39.09643",
+        "id": "2163172135",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.32911"
+    },
+    {
+        "event_latitude": "39.07616",
+        "id": "2163171691",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.35174"
+    },
+    {
+        "event_latitude": "41.69015",
+        "id": "2163177357",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-83.70321"
+    },
+    {
+        "event_latitude": "43.0852",
+        "id": "2163193729",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.63205"
+    },
+    {
+        "event_latitude": "43.08706",
+        "id": "2163194039",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.75353"
+    },
+    {
+        "event_latitude": "43.07072",
+        "id": "2163193410",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.51966"
+    },
+    {
+        "event_latitude": "43.04583",
+        "id": "2163200895",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.26417"
+    },
+    {
+        "event_latitude": "45.40597",
+        "id": "2163197888",
+        "event_code": "CORNERING_R1",
+        "event_longitude": "-122.57269"
+    },
+    {
+        "event_latitude": "45.40784",
+        "id": "2163198073",
+        "event_code": "DECELERATION_2",
+        "event_longitude": "-122.54605"
+    },
+    {
+        "event_latitude": "45.38711",
+        "id": "2163203435",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.64128"
+    },
+    {
+        "event_latitude": "45.40351",
+        "id": "2163202738",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.56395"
+    },
+    {
+        "event_latitude": "45.40794",
+        "id": "2163202602",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.54578"
+    },
+    {
+        "event_latitude": "45.38458",
+        "id": "2163202959",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.58001"
+    },
+    {
+        "event_latitude": "45.40776",
+        "id": "2163202697",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.55859"
+    },
+    {
+        "event_latitude": "45.38463",
+        "id": "2163202923",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.57979"
+    },
+    {
+        "event_latitude": "45.40356",
+        "id": "2163202735",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.56383"
+    },
+    {
+        "event_latitude": "45.38456",
+        "id": "2163202961",
+        "event_code": "ACCELERATION_2",
+        "event_longitude": "-122.58012"
+    },
+    {
+        "event_latitude": "33.28811",
+        "id": "2163208828",
+        "event_code": "SPEEDING_3",
+        "event_longitude": "-111.75633"
+    },
+    {
+        "event_latitude": "43.78927",
+        "id": "2163210695",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-88.47312"
+    },
+    {
+        "event_latitude": "43.78634",
+        "id": "2163210901",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-88.45474"
+    },
+    {
+        "event_latitude": "45.40374",
+        "id": "2163213473",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.69513"
+    },
+    {
+        "event_latitude": "45.40689",
+        "id": "2163214145",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.68415"
+    },
+    {
+        "event_latitude": "45.40384",
+        "id": "2163214287",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.7012"
+    },
+    {
+        "event_latitude": "45.40451",
+        "id": "2163213570",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.69448"
+    },
+    {
+        "event_latitude": "45.40649",
+        "id": "2163214135",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.6835"
+    },
+    {
+        "event_latitude": "45.40282",
+        "id": "2163213944",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.69021"
+    },
+    {
+        "event_latitude": "41.62143",
+        "id": "2163241950",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.77681"
+    },
+    {
+        "event_latitude": "41.7639",
+        "id": "2163242970",
+        "event_code": "SPEEDING_2",
+        "event_longitude": "-93.56937"
+    },
+    {
+        "event_latitude": "43.81678",
+        "id": "2163250240",
+        "event_code": "SPEEDING_2",
+        "event_longitude": "-93.28875"
+    },
+    {
+        "event_latitude": "42.75524",
+        "id": "2163246368",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.39113"
+    },
+    {
+        "event_latitude": "43.99853",
+        "id": "2163250830",
+        "event_code": "SPEEDING_2",
+        "event_longitude": "-93.25476"
+    },
+    {
+        "event_latitude": "41.05546",
+        "id": "2163240028",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.78175"
+    },
+    {
+        "event_latitude": "41.51687",
+        "id": "2163241575",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.77688"
+    },
+    {
+        "event_latitude": "42.04653",
+        "id": "2163243884",
+        "event_code": "SPEEDING_2",
+        "event_longitude": "-93.56957"
+    },
+    {
+        "event_latitude": "44.51981",
+        "id": "2163252641",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.29256"
+    },
+    {
+        "event_latitude": "41.40722",
+        "id": "2163241209",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.77998"
+    },
+    {
+        "event_latitude": "43.38042",
+        "id": "2163248464",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.34908"
+    },
+    {
+        "event_latitude": "42.92996",
+        "id": "2163246967",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.35074"
+    },
+    {
+        "event_latitude": "41.80515",
+        "id": "2163243106",
+        "event_code": "SPEEDING_2",
+        "event_longitude": "-93.57024"
+    },
+    {
+        "event_latitude": "43.29428",
+        "id": "2163248180",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.34968"
+    },
+    {
+        "event_latitude": "42.59942",
+        "id": "2163245766",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.51677"
+    },
+    {
+        "event_latitude": "44.44414",
+        "id": "2163252381",
+        "event_code": "SPEEDING_2",
+        "event_longitude": "-93.2923"
+    },
+    {
+        "event_latitude": "44.42642",
+        "id": "2163252321",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.29242"
+    },
+    {
+        "event_latitude": "41.2225",
+        "id": "2163240596",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.78243"
+    },
+    {
+        "event_latitude": "43.63812",
+        "id": "2163249644",
+        "event_code": "SPEEDING_2",
+        "event_longitude": "-93.32344"
+    },
+    {
+        "event_latitude": "44.11186",
+        "id": "2163251214",
+        "event_code": "SPEEDING_2",
+        "event_longitude": "-93.24617"
+    },
+    {
+        "event_latitude": "42.1573",
+        "id": "2163244264",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.56985"
+    },
+    {
+        "event_latitude": "42.2482",
+        "id": "2163244564",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.57034"
+    },
+    {
+        "event_latitude": "42.67684",
+        "id": "2163246067",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.45363"
+    },
+    {
+        "event_latitude": "43.01885",
+        "id": "2163247264",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.34067"
+    },
+    {
+        "event_latitude": "44.1847",
+        "id": "2163251459",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.25622"
+    },
+    {
+        "event_latitude": "42.43019",
+        "id": "2163245164",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.57014"
+    },
+    {
+        "event_latitude": "44.2624",
+        "id": "2163251741",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.29136"
+    },
+    {
+        "event_latitude": "41.32048",
+        "id": "2163240922",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.77975"
+    },
+    {
+        "event_latitude": "43.9068",
+        "id": "2163250530",
+        "event_code": "SPEEDING_2",
+        "event_longitude": "-93.2769"
+    },
+    {
+        "event_latitude": "42.83806",
+        "id": "2163246664",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.34967"
+    },
+    {
+        "event_latitude": "41.65253",
+        "id": "2163242176",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.72286"
+    },
+    {
+        "event_latitude": "43.45554",
+        "id": "2163249036",
+        "event_code": "SPEEDING_2",
+        "event_longitude": "-93.35012"
+    },
+    {
+        "event_latitude": "44.62072",
+        "id": "2163252986",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.29791"
+    },
+    {
+        "event_latitude": "41.6992",
+        "id": "2163242749",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.57603"
+    },
+    {
+        "event_latitude": "43.5523",
+        "id": "2163249349",
+        "event_code": "SPEEDING_2",
+        "event_longitude": "-93.35911"
+    },
+    {
+        "event_latitude": "41.88818",
+        "id": "2163243370",
+        "event_code": "SPEEDING_2",
+        "event_longitude": "-93.57101"
+    },
+    {
+        "event_latitude": "43.80129",
+        "id": "2163250185",
+        "event_code": "SPEEDING_2",
+        "event_longitude": "-93.29665"
+    },
+    {
+        "event_latitude": "42.33914",
+        "id": "2163244864",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.56998"
+    },
+    {
+        "event_latitude": "43.11026",
+        "id": "2163247568",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.35011"
+    },
+    {
+        "event_latitude": "43.19936",
+        "id": "2163247867",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.34897"
+    },
+    {
+        "event_latitude": "41.22611",
+        "id": "2163240608",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.78171"
+    },
+    {
+        "event_latitude": "42.07108",
+        "id": "2163243964",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.56765"
+    },
+    {
+        "event_latitude": "42.52113",
+        "id": "2163245464",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.56729"
+    },
+    {
+        "event_latitude": "45.40465",
+        "id": "2163220242",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.70266"
+    },
+    {
+        "event_latitude": "45.50377",
+        "id": "2163221328",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.6783"
+    },
+    {
+        "event_latitude": "45.50565",
+        "id": "2163221395",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.68169"
+    },
+    {
+        "event_latitude": "45.37363",
+        "id": "2163230107",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.83857"
+    },
+    {
+        "event_latitude": "45.35361",
+        "id": "2163230450",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.86832"
+    },
+    {
+        "event_latitude": "45.3831",
+        "id": "2163230018",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.82253"
+    },
+    {
+        "event_latitude": "45.648",
+        "id": "2163227903",
+        "event_code": "ACCELERATION_2",
+        "event_longitude": "-122.61668"
+    },
+    {
+        "event_latitude": "45.35374",
+        "id": "2163230363",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.86803"
+    },
+    {
+        "event_latitude": "45.38318",
+        "id": "2163230014",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.82224"
+    },
+    {
+        "event_latitude": "45.38129",
+        "id": "2163234641",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.85638"
+    },
+    {
+        "event_latitude": "45.36751",
+        "id": "2163234372",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.86775"
+    },
+    {
+        "event_latitude": "45.38214",
+        "id": "2163234568",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.86737"
+    },
+    {
+        "event_latitude": "45.39666",
+        "id": "2163234847",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.85189"
+    },
+    {
+        "event_latitude": "45.36762",
+        "id": "2163234377",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.86773"
+    },
+    {
+        "event_latitude": "45.37794",
+        "id": "2163234535",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.86768"
+    },
+    {
+        "event_latitude": "45.37745",
+        "id": "2163234441",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.86767"
+    },
+    {
+        "event_latitude": "37.76948",
+        "id": "2163233446",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-92.39649"
+    },
+    {
+        "event_latitude": "37.76971",
+        "id": "2163233452",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-92.39439"
+    },
+    {
+        "event_latitude": "46.93411",
+        "id": "2163233958",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-96.78693"
+    },
+    {
+        "event_latitude": "44.95196",
+        "id": "2163235969",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-89.65525"
+    },
+    {
+        "event_latitude": "45.48178",
+        "id": "2163238558",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.8262"
+    },
+    {
+        "event_latitude": "45.4766",
+        "id": "2163238471",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.81913"
+    },
+    {
+        "event_latitude": "45.46687",
+        "id": "2163238247",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.80376"
+    },
+    {
+        "event_latitude": "45.40154",
+        "id": "2163269166",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-91.85536"
+    },
+    {
+        "event_latitude": "45.40579",
+        "id": "2163264510",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.27359"
+    },
+    {
+        "event_latitude": "44.86025",
+        "id": "2163273083",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.37168"
+    },
+    {
+        "event_latitude": "44.66639",
+        "id": "2163272092",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.29393"
+    },
+    {
+        "event_latitude": "44.82715",
+        "id": "2163272687",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.29167"
+    },
+    {
+        "event_latitude": "44.97655",
+        "id": "2163273685",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.46012"
+    },
+    {
+        "event_latitude": "43.10704",
+        "id": "2163276591",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-89.31611"
+    },
+    {
+        "event_latitude": "42.6829",
+        "id": "2163296816",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-87.85638"
+    },
+    {
+        "event_latitude": "47.69585",
+        "id": "2163300537",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-116.78067"
+    },
+    {
+        "event_latitude": "45.01818",
+        "id": "2163304193",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.23726"
+    },
+    {
+        "event_latitude": "45.02363",
+        "id": "2163304076",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-93.2372"
+    },
+    {
+        "event_latitude": "45.02389",
+        "id": "2163304059",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.23743"
+    },
+    {
+        "event_latitude": "37.18099",
+        "id": "2163309954",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.24404"
+    },
+    {
+        "event_latitude": "47.74455",
+        "id": "2163311088",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-116.7774"
+    },
+    {
+        "event_latitude": "47.74454",
+        "id": "2163311083",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-116.77761"
+    },
+    {
+        "event_latitude": "43.03191",
+        "id": "2163312097",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.16094"
+    },
+    {
+        "event_latitude": "42.8533",
+        "id": "2163316849",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-89.36916"
+    },
+    {
+        "event_latitude": "45.43151",
+        "id": "2163328614",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.76974"
+    },
+    {
+        "event_latitude": "44.07018",
+        "id": "2163322103",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-121.26384"
+    },
+    {
+        "event_latitude": "44.03048",
+        "id": "2163321720",
+        "event_code": "CORNERING_R1",
+        "event_longitude": "-121.23375"
+    },
+    {
+        "event_latitude": "43.27671",
+        "id": "2163333571",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-123.35534"
+    },
+    {
+        "event_latitude": "45.50131",
+        "id": "2163338477",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.80567"
+    },
+    {
+        "event_latitude": "45.34831",
+        "id": "2163341864",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.82687"
+    },
+    {
+        "event_latitude": "45.18231",
+        "id": "2163344441",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.31468"
+    },
+    {
+        "event_latitude": "45.56534",
+        "id": "2163349960",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.68228"
+    },
+    {
+        "event_latitude": "45.57082",
+        "id": "2163350287",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.6914"
+    },
+    {
+        "event_latitude": "45.57745",
+        "id": "2163350548",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.71701"
+    },
+    {
+        "event_latitude": "45.55604",
+        "id": "2163349791",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.68182"
+    },
+    {
+        "event_latitude": "45.577",
+        "id": "2163350538",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.71643"
+    },
+    {
+        "event_latitude": "45.56519",
+        "id": "2163349944",
+        "event_code": "DECELERATION_2",
+        "event_longitude": "-122.68207"
+    },
+    {
+        "event_latitude": "45.56542",
+        "id": "2163349964",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.6822"
+    },
+    {
+        "event_latitude": "45.56997",
+        "id": "2163350183",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.68282"
+    },
+    {
+        "event_latitude": "44.65826",
+        "id": "2163356968",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-89.64219"
+    },
+    {
+        "event_latitude": "44.63893",
+        "id": "2163357037",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-89.63576"
+    },
+    {
+        "event_latitude": "44.76502",
+        "id": "2163356559",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-89.68038"
+    },
+    {
+        "event_latitude": "39.17171",
+        "id": "2163361619",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-82.06267"
+    },
+    {
+        "event_latitude": "45.49828",
+        "id": "2163353277",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.67347"
+    },
+    {
+        "event_latitude": "45.49989",
+        "id": "2163353254",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.67367"
+    },
+    {
+        "event_latitude": "45.56982",
+        "id": "2163352661",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.69952"
+    },
+    {
+        "event_latitude": "45.4706",
+        "id": "2163353687",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.69162"
+    },
+    {
+        "event_latitude": "45.48311",
+        "id": "2163353452",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.67904"
+    },
+    {
+        "event_latitude": "45.48755",
+        "id": "2163353418",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.67842"
+    },
+    {
+        "event_latitude": "45.47088",
+        "id": "2163353657",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.68828"
+    },
+    {
+        "event_latitude": "33.3794",
+        "id": "2163353903",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.75393"
+    },
+    {
+        "event_latitude": "39.75132",
+        "id": "2163374919",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.17643"
+    },
+    {
+        "event_latitude": "41.37137",
+        "id": "2163372198",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-82.0778"
+    },
+    {
+        "event_latitude": "39.7618",
+        "id": "2163385420",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-94.39299"
+    },
+    {
+        "event_latitude": "39.74793",
+        "id": "2163386309",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-94.70659"
+    },
+    {
+        "event_latitude": "39.76148",
+        "id": "2163385877",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-94.55631"
+    },
+    {
+        "event_latitude": "37.78701",
+        "id": "2163376708",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-92.25077"
+    },
+    {
+        "event_latitude": "37.78678",
+        "id": "2163376705",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-92.25144"
+    },
+    {
+        "event_latitude": "38.75865",
+        "id": "2163378021",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.64339"
+    },
+    {
+        "event_latitude": "38.7546",
+        "id": "2163378150",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.65422"
+    },
+    {
+        "event_latitude": "42.85553",
+        "id": "2163380746",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-89.53878"
+    },
+    {
+        "event_latitude": "38.62897",
+        "id": "2163380834",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-90.55171"
+    },
+    {
+        "event_latitude": "44.05501",
+        "id": "2163395336",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-121.26805"
+    },
+    {
+        "event_latitude": "44.05489",
+        "id": "2163397509",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-121.27245"
+    },
+    {
+        "event_latitude": "44.05131",
+        "id": "2163397687",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-121.26872"
+    },
+    {
+        "event_latitude": "44.05807",
+        "id": "2163395152",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-121.26157"
+    },
+    {
+        "event_latitude": "44.05128",
+        "id": "2163397801",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-121.26378"
+    },
+    {
+        "event_latitude": "44.05642",
+        "id": "2163395104",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-121.25805"
+    },
+    {
+        "event_latitude": "44.0599",
+        "id": "2163397359",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-121.29434"
+    },
+    {
+        "event_latitude": "45.36372",
+        "id": "2163390491",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.60105"
+    },
+    {
+        "event_latitude": "45.42174",
+        "id": "2163390863",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.57512"
+    },
+    {
+        "event_latitude": "45.42249",
+        "id": "2163390935",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.58118"
+    },
+    {
+        "event_latitude": "39.89119",
+        "id": "2163393430",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-83.03949"
+    },
+    {
+        "event_latitude": "39.77635",
+        "id": "2163392756",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-83.07202"
+    },
+    {
+        "event_latitude": "40.03306",
+        "id": "2163394123",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-83.12158"
+    },
+    {
+        "event_latitude": "39.87062",
+        "id": "2163393343",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-83.05538"
+    },
+    {
+        "event_latitude": "39.83923",
+        "id": "2163393119",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-83.07562"
+    },
+    {
+        "event_latitude": "39.99505",
+        "id": "2163393989",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-83.1182"
+    },
+    {
+        "event_latitude": "40.03331",
+        "id": "2163394132",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-83.12132"
+    },
+    {
+        "event_latitude": "39.89203",
+        "id": "2163393457",
+        "event_code": "CORNERING_R1",
+        "event_longitude": "-83.03672"
+    },
+    {
+        "event_latitude": "39.84026",
+        "id": "2163393178",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-83.08718"
+    },
+    {
+        "event_latitude": "45.78986",
+        "id": "2163395018",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.90972"
+    },
+    {
+        "event_latitude": "44.06",
+        "id": "2163398542",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-121.29372"
+    },
+    {
+        "event_latitude": "44.05642",
+        "id": "2163398237",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-121.26361"
+    },
+    {
+        "event_latitude": "44.05644",
+        "id": "2163398295",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-121.2637"
+    },
+    {
+        "event_latitude": "44.05798",
+        "id": "2163398769",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-121.31501"
+    },
+    {
+        "event_latitude": "44.06001",
+        "id": "2163398482",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-121.29351"
+    },
+    {
+        "event_latitude": "44.05648",
+        "id": "2163398226",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-121.26286"
+    },
+    {
+        "event_latitude": "44.05491",
+        "id": "2163405081",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-121.26409"
+    },
+    {
+        "event_latitude": "44.05663",
+        "id": "2163404958",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-121.28413"
+    },
+    {
+        "event_latitude": "44.05622",
+        "id": "2163405155",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-121.26361"
+    },
+    {
+        "event_latitude": "38.80201",
+        "id": "2163407414",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-90.73332"
+    },
+    {
+        "event_latitude": "38.80032",
+        "id": "2163407465",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-90.73435"
+    },
+    {
+        "event_latitude": "38.80233",
+        "id": "2163407402",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.73345"
+    },
+    {
+        "event_latitude": "38.80384",
+        "id": "2163407245",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.77078"
+    },
+    {
+        "event_latitude": "43.11887",
+        "id": "2163408473",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-88.07838"
+    },
+    {
+        "event_latitude": "44.66227",
+        "id": "2163408750",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-88.05176"
+    },
+    {
+        "event_latitude": "39.77181",
+        "id": "2163410914",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-84.17038"
+    },
+    {
+        "event_latitude": "38.14483",
+        "id": "2163415786",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.32498"
+    },
+    {
+        "event_latitude": "44.94001",
+        "id": "2163418436",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.99204"
+    },
+    {
+        "event_latitude": "38.47525",
+        "id": "2163436891",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-90.8528"
+    },
+    {
+        "event_latitude": "44.29099",
+        "id": "2163429975",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-121.17361"
+    },
+    {
+        "event_latitude": "33.46293",
+        "id": "2163440250",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-112.17682"
+    },
+    {
+        "event_latitude": "45.03094",
+        "id": "2163441678",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-93.17746"
+    },
+    {
+        "event_latitude": "45.03572",
+        "id": "2163441542",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-93.18811"
+    },
+    {
+        "event_latitude": "45.01579",
+        "id": "2163441817",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.17708"
+    },
+    {
+        "event_latitude": "45.03558",
+        "id": "2163441455",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.19345"
+    },
+    {
+        "event_latitude": "45.03549",
+        "id": "2163441490",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-93.19262"
+    },
+    {
+        "event_latitude": "45.3821",
+        "id": "2163447554",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.75219"
+    },
+    {
+        "event_latitude": "44.99408",
+        "id": "2163449582",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.98336"
+    },
+    {
+        "event_latitude": "44.99013",
+        "id": "2163449661",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.98328"
+    },
+    {
+        "event_latitude": "45.00419",
+        "id": "2163449513",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.9767"
+    },
+    {
+        "event_latitude": "44.24087",
+        "id": "2163456602",
+        "event_code": "DECELERATION_2",
+        "event_longitude": "-121.18711"
+    },
+    {
+        "event_latitude": "44.24822",
+        "id": "2163456513",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-121.173"
+    },
+    {
+        "event_latitude": "45.46692",
+        "id": "2163458573",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.85092"
+    },
+    {
+        "event_latitude": "45.46231",
+        "id": "2163458528",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.85175"
+    },
+    {
+        "event_latitude": "45.40115",
+        "id": "2163458072",
+        "event_code": "ACCELERATION_2",
+        "event_longitude": "-122.85176"
+    },
+    {
+        "event_latitude": "45.45049",
+        "id": "2163458406",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.85684"
+    },
+    {
+        "event_latitude": "45.42661",
+        "id": "2163458246",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.85351"
+    },
+    {
+        "event_latitude": "45.411",
+        "id": "2163457793",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.79666"
+    },
+    {
+        "event_latitude": "45.42612",
+        "id": "2163458207",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.85338"
+    },
+    {
+        "event_latitude": "45.46564",
+        "id": "2163458624",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.84277"
+    },
+    {
+        "event_latitude": "45.43887",
+        "id": "2163458333",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.85457"
+    },
+    {
+        "event_latitude": "45.46671",
+        "id": "2163458564",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.85169"
+    },
+    {
+        "event_latitude": "44.8857",
+        "id": "2163487452",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-123.03235"
+    },
+    {
+        "event_latitude": "44.9366",
+        "id": "2163486119",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.10879"
+    },
+    {
+        "event_latitude": "44.74321",
+        "id": "2163493280",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.27706"
+    },
+    {
+        "event_latitude": "44.78133",
+        "id": "2163493518",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.21226"
+    },
+    {
+        "event_latitude": "44.84897",
+        "id": "2163493812",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-93.15204"
+    },
+    {
+        "event_latitude": "43.75238",
+        "id": "2163495849",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-87.74958"
+    },
+    {
+        "event_latitude": "43.75063",
+        "id": "2163496049",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-87.80424"
+    },
+    {
+        "event_latitude": "38.47702",
+        "id": "2163497021",
+        "event_code": "DECELERATION_2",
+        "event_longitude": "-90.30435"
+    },
+    {
+        "event_latitude": "38.49553",
+        "id": "2163497173",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.30158"
+    },
+    {
+        "event_latitude": "38.52338",
+        "id": "2163497452",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.29895"
+    },
+    {
+        "event_latitude": "38.49396",
+        "id": "2163497162",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-90.30246"
+    },
+    {
+        "event_latitude": "38.49672",
+        "id": "2163497215",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-90.30093"
+    },
+    {
+        "event_latitude": "43.25598",
+        "id": "2163504358",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.18159"
+    },
+    {
+        "event_latitude": "43.25804",
+        "id": "2163504365",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.18157"
+    },
+    {
+        "event_latitude": "45.49457",
+        "id": "2163511202",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.88104"
+    },
+    {
+        "event_latitude": "45.53354",
+        "id": "2163511806",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.93415"
+    },
+    {
+        "event_latitude": "44.91869",
+        "id": "2163513390",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-122.98938"
+    },
+    {
+        "event_latitude": "44.78352",
+        "id": "2163512836",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-123.03861"
+    },
+    {
+        "event_latitude": "44.63037",
+        "id": "2163512111",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-123.06671"
+    },
+    {
+        "event_latitude": "44.6467",
+        "id": "2163512271",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-123.06224"
+    },
+    {
+        "event_latitude": "44.02607",
+        "id": "2163526891",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-92.78714"
+    },
+    {
+        "event_latitude": "43.97285",
+        "id": "2163528220",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-92.41716"
+    },
+    {
+        "event_latitude": "43.93772",
+        "id": "2163529384",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-91.97723"
+    },
+    {
+        "event_latitude": "43.93184",
+        "id": "2163530831",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-91.41719"
+    },
+    {
+        "event_latitude": "43.95473",
+        "id": "2163529083",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-92.09588"
+    },
+    {
+        "event_latitude": "43.94171",
+        "id": "2163529983",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-91.73073"
+    },
+    {
+        "event_latitude": "43.92571",
+        "id": "2163530317",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-91.61427"
+    },
+    {
+        "event_latitude": "43.95523",
+        "id": "2163528483",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-92.34164"
+    },
+    {
+        "event_latitude": "43.95494",
+        "id": "2163528912",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-92.1677"
+    },
+    {
+        "event_latitude": "43.92021",
+        "id": "2163530926",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-91.38467"
+    },
+    {
+        "event_latitude": "43.93359",
+        "id": "2163529690",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-91.85267"
+    },
+    {
+        "event_latitude": "44.02894",
+        "id": "2163527420",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-92.61687"
+    },
+    {
+        "event_latitude": "39.24465",
+        "id": "2163517492",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-94.4564"
+    },
+    {
+        "event_latitude": "39.22316",
+        "id": "2163517665",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-94.47084"
+    },
+    {
+        "event_latitude": "33.51591",
+        "id": "2163523240",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-112.23761"
+    },
+    {
+        "event_latitude": "37.69063",
+        "id": "2163538716",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-90.38364"
+    },
+    {
+        "event_latitude": "37.58752",
+        "id": "2163539101",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-90.33152"
+    },
+    {
+        "event_latitude": "37.57664",
+        "id": "2163539139",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-90.32559"
+    },
+    {
+        "event_latitude": "37.77218",
+        "id": "2163538371",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-90.44534"
+    },
+    {
+        "event_latitude": "38.59291",
+        "id": "2163531740",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-90.51249"
+    },
+    {
+        "event_latitude": "38.59275",
+        "id": "2163531755",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.51042"
+    },
+    {
+        "event_latitude": "41.7116",
+        "id": "2163536214",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-83.58556"
+    },
+    {
+        "event_latitude": "41.72082",
+        "id": "2163535969",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-83.62163"
+    },
+    {
+        "event_latitude": "43.59",
+        "id": "2163541631",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-87.78569"
+    },
+    {
+        "event_latitude": "43.57396",
+        "id": "2163541179",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-87.82566"
+    },
+    {
+        "event_latitude": "43.66243",
+        "id": "2163541894",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-87.76386"
+    },
+    {
+        "event_latitude": "45.45703",
+        "id": "2163542932",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.58049"
+    },
+    {
+        "event_latitude": "33.49422",
+        "id": "2163547280",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-112.24715"
+    },
+    {
+        "event_latitude": "33.65499",
+        "id": "2163549632",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-112.01403"
+    },
+    {
+        "event_latitude": "33.60126",
+        "id": "2163549925",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-112.00967"
+    },
+    {
+        "event_latitude": "44.34186",
+        "id": "2163562021",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-120.56155"
+    },
+    {
+        "event_latitude": "44.30577",
+        "id": "2163562275",
+        "event_code": "SPEEDING_3",
+        "event_longitude": "-120.63862"
+    },
+    {
+        "event_latitude": "44.33052",
+        "id": "2163562121",
+        "event_code": "SPEEDING_3",
+        "event_longitude": "-120.58982"
+    },
+    {
+        "event_latitude": "43.62478",
+        "id": "2163558322",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-116.37474"
+    },
+    {
+        "event_latitude": "39.17726",
+        "id": "2163560253",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.49662"
+    },
+    {
+        "event_latitude": "43.63374",
+        "id": "2163565053",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-116.37408"
+    },
+    {
+        "event_latitude": "44.95376",
+        "id": "2163580009",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-89.68778"
+    },
+    {
+        "event_latitude": "43.5923",
+        "id": "2163582070",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-88.44279"
+    },
+    {
+        "event_latitude": "43.59233",
+        "id": "2163582069",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-88.44276"
+    },
+    {
+        "event_latitude": "39.68428",
+        "id": "2163589435",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-84.22967"
+    },
+    {
+        "event_latitude": "39.64053",
+        "id": "2163589601",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.23341"
+    },
+    {
+        "event_latitude": "39.78131",
+        "id": "2163588969",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.20805"
+    },
+    {
+        "event_latitude": "39.78485",
+        "id": "2163588873",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-84.21169"
+    },
+    {
+        "event_latitude": "39.77115",
+        "id": "2163589070",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.19558"
+    },
+    {
+        "event_latitude": "39.7176",
+        "id": "2163589306",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-84.21664"
+    },
+    {
+        "event_latitude": "39.63577",
+        "id": "2163589765",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-84.22549"
+    },
+    {
+        "event_latitude": "39.00923",
+        "id": "2163594331",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-82.06865"
+    },
+    {
+        "event_latitude": "45.50884",
+        "id": "2163592708",
+        "event_code": "ACCELERATION_2",
+        "event_longitude": "-91.74348"
+    },
+    {
+        "event_latitude": "45.49481",
+        "id": "2163592838",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-91.74538"
+    },
+    {
+        "event_latitude": "38.70458",
+        "id": "2163601109",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-93.23654"
+    },
+    {
+        "event_latitude": "45.50041",
+        "id": "2163614790",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.93019"
+    },
+    {
+        "event_latitude": "45.48399",
+        "id": "2163615338",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.99104"
+    },
+    {
+        "event_latitude": "45.53513",
+        "id": "2163616625",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-123.10589"
+    },
+    {
+        "event_latitude": "45.48476",
+        "id": "2163615727",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-123.01649"
+    },
+    {
+        "event_latitude": "36.95195",
+        "id": "2163604847",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.71848"
+    },
+    {
+        "event_latitude": "45.5381",
+        "id": "2163608081",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.85644"
+    },
+    {
+        "event_latitude": "45.56451",
+        "id": "2163609020",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.84866"
+    },
+    {
+        "event_latitude": "45.5437",
+        "id": "2163609378",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.86748"
+    },
+    {
+        "event_latitude": "45.5663",
+        "id": "2163608745",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.85002"
+    },
+    {
+        "event_latitude": "45.54558",
+        "id": "2163609362",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.86756"
+    },
+    {
+        "event_latitude": "45.53931",
+        "id": "2163609612",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.84479"
+    },
+    {
+        "event_latitude": "45.56681",
+        "id": "2163608767",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.85023"
+    },
+    {
+        "event_latitude": "45.53777",
+        "id": "2163609498",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.85565"
+    },
+    {
+        "event_latitude": "45.53947",
+        "id": "2163609596",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.84701"
+    },
+    {
+        "event_latitude": "45.56247",
+        "id": "2163609149",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.86673"
+    },
+    {
+        "event_latitude": "45.53835",
+        "id": "2163609567",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.84927"
+    },
+    {
+        "event_latitude": "45.53559",
+        "id": "2163608035",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.84957"
+    },
+    {
+        "event_latitude": "45.56185",
+        "id": "2163608503",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.86746"
+    },
+    {
+        "event_latitude": "45.53619",
+        "id": "2163609548",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.84926"
+    },
+    {
+        "event_latitude": "43.18309",
+        "id": "2163611702",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-88.73035"
+    },
+    {
+        "event_latitude": "44.0864",
+        "id": "2163638859",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-123.10455"
+    },
+    {
+        "event_latitude": "44.06248",
+        "id": "2163634778",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-123.01935"
+    },
+    {
+        "event_latitude": "45.7745",
+        "id": "2163646664",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.86842"
+    },
+    {
+        "event_latitude": "43.8071",
+        "id": "2163652935",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-121.43532"
+    },
+    {
+        "event_latitude": "45.44382",
+        "id": "2163655254",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.73886"
+    },
+    {
+        "event_latitude": "39.96104",
+        "id": "2163663982",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-83.16687"
+    },
+    {
+        "event_latitude": "45.44659",
+        "id": "2163668630",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.76539"
+    },
+    {
+        "event_latitude": "40.92349",
+        "id": "2163668209",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-81.13481"
+    },
+    {
+        "event_latitude": "33.13511",
+        "id": "2163669941",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-111.51871"
+    },
+    {
+        "event_latitude": "39.24645",
+        "id": "2163672943",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-94.62742"
+    },
+    {
+        "event_latitude": "44.97187",
+        "id": "2163685782",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-89.32198"
+    },
+    {
+        "event_latitude": "44.97182",
+        "id": "2163685889",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-89.32352"
+    },
+    {
+        "event_latitude": "44.97189",
+        "id": "2163685736",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-89.32207"
+    },
+    {
+        "event_latitude": "44.97165",
+        "id": "2163685811",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-89.32186"
+    },
+    {
+        "event_latitude": "43.0792",
+        "id": "2163678946",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-89.38354"
+    },
+    {
+        "event_latitude": "39.13041",
+        "id": "2163679044",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.60971"
+    },
+    {
+        "event_latitude": "38.80353",
+        "id": "2163683945",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.36145"
+    },
+    {
+        "event_latitude": "38.79544",
+        "id": "2163683595",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-90.34033"
+    },
+    {
+        "event_latitude": "38.80032",
+        "id": "2163683748",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.34463"
+    },
+    {
+        "event_latitude": "33.62112",
+        "id": "2163695110",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-112.00904"
+    },
+    {
+        "event_latitude": "33.58068",
+        "id": "2163697336",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-112.26363"
+    },
+    {
+        "event_latitude": "33.60794",
+        "id": "2163697178",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-112.24701"
+    },
+    {
+        "event_latitude": "43.12955",
+        "id": "2163698419",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-87.91272"
+    },
+    {
+        "event_latitude": "43.11897",
+        "id": "2163698677",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-87.93187"
+    },
+    {
+        "event_latitude": "45.40432",
+        "id": "2163709681",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.74944"
+    },
+    {
+        "event_latitude": "43.10472",
+        "id": "2163725533",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-88.05287"
+    },
+    {
+        "event_latitude": "43.10833",
+        "id": "2163721892",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-89.11662"
+    },
+    {
+        "event_latitude": "43.06914",
+        "id": "2163723489",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.49953"
+    },
+    {
+        "event_latitude": "43.08681",
+        "id": "2163722847",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.75511"
+    },
+    {
+        "event_latitude": "43.08495",
+        "id": "2163723149",
+        "event_code": "SPEEDING_2",
+        "event_longitude": "-88.63372"
+    },
+    {
+        "event_latitude": "43.04925",
+        "id": "2163723900",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.34577"
+    },
+    {
+        "event_latitude": "43.08483",
+        "id": "2163723200",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.61228"
+    },
+    {
+        "event_latitude": "43.11042",
+        "id": "2163722132",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-89.02542"
+    },
+    {
+        "event_latitude": "43.04664",
+        "id": "2163724091",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.27304"
+    },
+    {
+        "event_latitude": "45.53401",
+        "id": "2163707509",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.80867"
+    },
+    {
+        "event_latitude": "45.46298",
+        "id": "2163712545",
+        "event_code": "DECELERATION_2",
+        "event_longitude": "-122.70192"
+    },
+    {
+        "event_latitude": "45.46292",
+        "id": "2163712536",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.70064"
+    },
+    {
+        "event_latitude": "45.46349",
+        "id": "2163712571",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.70046"
+    },
+    {
+        "event_latitude": "45.53517",
+        "id": "2163712144",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.68628"
+    },
+    {
+        "event_latitude": "33.42",
+        "id": "2163717387",
+        "event_code": "SPEEDING_2",
+        "event_longitude": "-111.89134"
+    },
+    {
+        "event_latitude": "33.46541",
+        "id": "2163717026",
+        "event_code": "SPEEDING_3",
+        "event_longitude": "-111.79151"
+    },
+    {
+        "event_latitude": "33.45857",
+        "id": "2163717135",
+        "event_code": "SPEEDING_3",
+        "event_longitude": "-111.83026"
+    },
+    {
+        "event_latitude": "33.29097",
+        "id": "2163719143",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-112.06355"
+    },
+    {
+        "event_latitude": "33.29098",
+        "id": "2163719126",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-112.06365"
+    },
+    {
+        "event_latitude": "33.29152",
+        "id": "2163719418",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.99752"
+    },
+    {
+        "event_latitude": "33.29165",
+        "id": "2163718264",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-112.06356"
+    },
+    {
+        "event_latitude": "43.10341",
+        "id": "2163716409",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-87.99352"
+    },
+    {
+        "event_latitude": "43.69475",
+        "id": "2163720009",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-97.94719"
+    },
+    {
+        "event_latitude": "43.69485",
+        "id": "2163720149",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-97.88827"
+    },
+    {
+        "event_latitude": "39.4112",
+        "id": "2163735376",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.20445"
+    },
+    {
+        "event_latitude": "39.4345",
+        "id": "2163735648",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.19875"
+    },
+    {
+        "event_latitude": "44.27648",
+        "id": "2163738016",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-121.20185"
+    },
+    {
+        "event_latitude": "39.14351",
+        "id": "2163740809",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-94.57341"
+    },
+    {
+        "event_latitude": "44.95677",
+        "id": "2163743744",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-93.04561"
+    },
+    {
+        "event_latitude": "44.99467",
+        "id": "2163744291",
+        "event_code": "ACCELERATION_2",
+        "event_longitude": "-93.06591"
+    },
+    {
+        "event_latitude": "45.06378",
+        "id": "2163744781",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.02517"
+    },
+    {
+        "event_latitude": "45.06456",
+        "id": "2163744787",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.02479"
+    },
+    {
+        "event_latitude": "44.96235",
+        "id": "2163743808",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.04582"
+    },
+    {
+        "event_latitude": "44.97882",
+        "id": "2163744039",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-93.04776"
+    },
+    {
+        "event_latitude": "45.12506",
+        "id": "2163750293",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-93.49203"
+    },
+    {
+        "event_latitude": "45.52419",
+        "id": "2163749083",
+        "event_code": "DECELERATION_2",
+        "event_longitude": "-122.83947"
+    },
+    {
+        "event_latitude": "45.51583",
+        "id": "2163748994",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.8396"
+    },
+    {
+        "event_latitude": "45.52445",
+        "id": "2163749092",
+        "event_code": "DECELERATION_2",
+        "event_longitude": "-122.83825"
+    },
+    {
+        "event_latitude": "45.50946",
+        "id": "2163748927",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.8402"
+    },
+    {
+        "event_latitude": "45.50748",
+        "id": "2163748909",
+        "event_code": "DECELERATION_2",
+        "event_longitude": "-122.8403"
+    },
+    {
+        "event_latitude": "41.33468",
+        "id": "2163762862",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-81.86461"
+    },
+    {
+        "event_latitude": "45.5618",
+        "id": "2163767888",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-123.05506"
+    },
+    {
+        "event_latitude": "46.81864",
+        "id": "2163782798",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-96.83928"
+    },
+    {
+        "event_latitude": "40.23173",
+        "id": "2163769612",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-84.19702"
+    },
+    {
+        "event_latitude": "42.83491",
+        "id": "2163773716",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-88.74023"
+    },
+    {
+        "event_latitude": "41.43399",
+        "id": "2163772787",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-81.38842"
+    },
+    {
+        "event_latitude": "41.43231",
+        "id": "2163772740",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-81.38343"
+    },
+    {
+        "event_latitude": "33.30612",
+        "id": "2163776260",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.87645"
+    },
+    {
+        "event_latitude": "45.46571",
+        "id": "2163777026",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.84145"
+    },
+    {
+        "event_latitude": "45.40822",
+        "id": "2163777826",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.74326"
+    },
+    {
+        "event_latitude": "45.46654",
+        "id": "2163777342",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-122.80392"
+    },
+    {
+        "event_latitude": "45.17286",
+        "id": "2163788781",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.59531"
+    },
+    {
+        "event_latitude": "44.29095",
+        "id": "2163794038",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-121.18888"
+    },
+    {
+        "event_latitude": "44.26182",
+        "id": "2163794603",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-121.20003"
+    },
+    {
+        "event_latitude": "44.29097",
+        "id": "2163793942",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-121.17446"
+    },
+    {
+        "event_latitude": "45.17567",
+        "id": "2163790323",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.59365"
+    },
+    {
+        "event_latitude": "43.07685",
+        "id": "2163797343",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-88.36352"
+    },
+    {
+        "event_latitude": "43.03492",
+        "id": "2163800122",
+        "event_code": "CORNERING_R1",
+        "event_longitude": "-88.1717"
+    },
+    {
+        "event_latitude": "43.02463",
+        "id": "2163799923",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-88.11066"
+    },
+    {
+        "event_latitude": "45.41093",
+        "id": "2163803017",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.66453"
+    },
+    {
+        "event_latitude": "44.03046",
+        "id": "2163800821",
+        "event_code": "ACCELERATION_2",
+        "event_longitude": "-92.4684"
+    },
+    {
+        "event_latitude": "39.81608",
+        "id": "2163808976",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-94.80255"
+    },
+    {
+        "event_latitude": "39.56575",
+        "id": "2163809930",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-94.78844"
+    },
+    {
+        "event_latitude": "39.69185",
+        "id": "2163809473",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-94.78841"
+    },
+    {
+        "event_latitude": "39.41746",
+        "id": "2163810461",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-94.78988"
+    },
+    {
+        "event_latitude": "39.32359",
+        "id": "2163810927",
+        "event_code": "SPEEDING_1",
+        "event_longitude": "-94.70191"
+    },
+    {
+        "event_latitude": "39.33921",
+        "id": "2163804976",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-84.53374"
+    },
+    {
+        "event_latitude": "45.10304",
+        "id": "2163804776",
+        "event_code": "DECELERATION_2",
+        "event_longitude": "-93.73421"
+    },
+    {
+        "event_latitude": "45.10305",
+        "id": "2163804775",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-93.73422"
+    },
+    {
+        "event_latitude": "45.38844",
+        "id": "2163807313",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.64282"
+    },
+    {
+        "event_latitude": "33.06939",
+        "id": "2163805366",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-111.45347"
+    },
+    {
+        "event_latitude": "45.3111",
+        "id": "2163812246",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.57014"
+    },
+    {
+        "event_latitude": "42.86864",
+        "id": "2163814052",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-89.53305"
+    },
+    {
+        "event_latitude": "42.98545",
+        "id": "2163814728",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-89.53376"
+    },
+    {
+        "event_latitude": "43.18291",
+        "id": "2163811897",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-87.96364"
+    },
+    {
+        "event_latitude": "43.18249",
+        "id": "2163811919",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-87.96343"
+    },
+    {
+        "event_latitude": "43.16919",
+        "id": "2163811992",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-87.96477"
+    },
+    {
+        "event_latitude": "45.49222",
+        "id": "2163827299",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-122.85102"
+    },
+    {
+        "event_latitude": "38.1377",
+        "id": "2163828573",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-90.56374"
+    },
+    {
+        "event_latitude": "38.13505",
+        "id": "2163828634",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-90.55893"
+    },
+    {
+        "event_latitude": "46.57744",
+        "id": "2163835765",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.89116"
+    },
+    {
+        "event_latitude": "46.56604",
+        "id": "2163836609",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.90641"
+    },
+    {
+        "event_latitude": "37.56645",
+        "id": "2163840586",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-90.24932"
+    },
+    {
+        "event_latitude": "39.43961",
+        "id": "2163845275",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-82.21929"
+    },
+    {
+        "event_latitude": "39.37853",
+        "id": "2163844830",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-82.19101"
+    },
+    {
+        "event_latitude": "39.39875",
+        "id": "2163844968",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-82.19889"
+    },
+    {
+        "event_latitude": "39.43865",
+        "id": "2163845213",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-82.2111"
+    },
+    {
+        "event_latitude": "42.54579",
+        "id": "2163848218",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-88.46181"
+    },
+    {
+        "event_latitude": "42.53104",
+        "id": "2163848838",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-88.59022"
+    },
+    {
+        "event_latitude": "42.5456",
+        "id": "2163848133",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-88.44308"
+    },
+    {
+        "event_latitude": "42.5456",
+        "id": "2163848124",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-88.44251"
+    },
+    {
+        "event_latitude": "42.53115",
+        "id": "2163848739",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-88.58903"
+    },
+    {
+        "event_latitude": "44.90489",
+        "id": "2163852451",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-89.58156"
+    },
+    {
+        "event_latitude": "44.90789",
+        "id": "2163852206",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-89.59113"
+    },
+    {
+        "event_latitude": "39.22462",
+        "id": "2163845785",
+        "event_code": "ACCELERATION_2",
+        "event_longitude": "-84.3793"
+    },
+    {
+        "event_latitude": "39.22813",
+        "id": "2163845935",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.37207"
+    },
+    {
+        "event_latitude": "39.2283",
+        "id": "2163845832",
+        "event_code": "DECELERATION_1",
+        "event_longitude": "-84.37723"
+    },
+    {
+        "event_latitude": "39.23029",
+        "id": "2163845889",
+        "event_code": "ACCELERATION_1",
+        "event_longitude": "-84.37456"
+    }
+]
