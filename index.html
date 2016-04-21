@@ -11,13 +11,12 @@
         <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
         <script type="text/javascript">
             var createMap = function(mapOptions) {
-                var infoWindow = new google.maps.InfoWindow();
                 return new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
             }
 
             var addMarkersToMap = function(map, markers) {
-                console.log("markers",markers);
                 for (i = 0; i < markers.length; i++) {
+                    var infoWindow = new google.maps.InfoWindow();
                     var data = markers[i]
                     var myLatlng = new google.maps.LatLng(data.event_latitude, data.event_longitude);
                     var marker = new google.maps.Marker({
